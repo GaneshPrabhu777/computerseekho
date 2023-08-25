@@ -1,0 +1,58 @@
+/* StudentRegistrationForm.css */
+
+.student-registration-form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .student-registration-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .student-registration-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .student-registration-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .student-registration-form label {
+    font-weight: bold;
+  }
+  
+  .student-registration-form select,
+  .student-registration-form input[type="text"],
+  .student-registration-form input[type="date"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .student-registration-form button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .student-registration-form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Optional: Add media queries for responsiveness */
+  @media (max-width: 768px) {
+    .student-registration-form {
+      max-width: 100%;
+    }
+  }
+  
