@@ -1,32 +1,32 @@
-.a{
-    background-color: #ffffff;
-    padding: 5px;
-    color: white;
-      border: 1px solid #000000;
-    font-size:larger;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   
-  }
+.modern-header {
+  background-color: #ffffff; /* Set your desired background color */
+  padding: 20px 0;
+}
 
-  .b{
-    font-family:'Times New Roman', Times, serif ;
-    text-align: center;
-    font-size:xx-large ;
-   
-    color:blueviolet;
-  }
-  
-  .t,.t1{
-    border-color: #000000 ;
-    padding: 10;
-    word-spacing: 10;
-    word-spacing:1 ;
-  }
-  .t1{
-border-style: solid;
-border: 5px; ;
-  }
+.logo {
+  width: auto;
+  max-height: 50px;
+}
 
-  .t{
-    border-style:groove;
-  }
+.nav-link {
+  color: #fff;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 30px;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+
+.navbar-toggler {
+  border-color: #fff;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-nav {
+  align-items: center;
+}

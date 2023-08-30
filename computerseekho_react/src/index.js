@@ -35,7 +35,7 @@ import StudentTable from './Student/StudentTable';
 import EditStudentForm from './Student/EditStudent';
 import Call from './StaffDashboard/Call';
 import UpcomingBatchTable from './Batch/BatchList';
-import Album from './Album/Album';
+import Gallery from './Gallery';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -50,7 +50,7 @@ root.render(
           <Route path="Contactus" element={<Contactus />} />
           <Route path="About" element={<AboutUs />} />
           <Route path="Placement" element={<GetPlacement />} />
-          <Route path="gallery" element={<Album />} />
+          <Route path="gallery" element={<Gallery />} />
 
 
           <Route path="Stafflogin" element={<StaffLogin />} />

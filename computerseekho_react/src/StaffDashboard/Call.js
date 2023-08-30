@@ -2,11 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Form } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 import Dashoption from '../Login/dashoption';
-import { useParams,useNavigate } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import { Label } from 'reactstrap';
 
 function Call(props) {
-  let navigate = useNavigate();
+    let navigate = useNavigate();
 
     const { id } = useParams();
     const [enquiry, setEnquiry] = useState({
@@ -70,7 +70,6 @@ function Call(props) {
 
             if (response.ok) {
                 alert("Enquiry Submitted Successfully !");
-                navigate("/allenq");
             } else {
                 console.error('Failed to store enquiry');
             }
@@ -96,96 +95,88 @@ function Call(props) {
 
     return (
         <Container fluid>
-            <Row>
-                <Dashoption />
-                <Col md="11">
-                    <Container>
-                        <h3 align="center">Enquiry Followup</h3>
-                        <Row sm={8}>
-                            <Col sm={5}>
-                                <Form style={{ position: 'relative', top: '50px', left: '200px' }} onSubmit={handleSubmit}>
-                                    <Form.Group controlId="enquirerName">
-                                        <Form.Label>Enquirer Name</Form.Label>
-                                        <Form.Control
-                                            type="text"
-                                            name="enquirer_name"
-                                            value={enquiry.enquirer_name}
-                                            onChange={handleChange}
-                                        />
-                                    </Form.Group>
-                                    
-                                    <Form.Group controlId="enquirerMobile">
-                                        <Form.Label>Mobile No.</Form.Label>
-                                        <Form.Control
-                                            type="text"
-                                            name="enquirer_mobile"
-                                            value={enquiry.enquirer_mobile}
-                                            onChange={handleChange}
-                                        />
-                                    </Form.Group>
-                                    <Form.Group controlId="enquirerEmail">
-                                        <Form.Label>Email</Form.Label>
-                                        <Form.Control
-                                            type="text"
-                                            name="enquirer_email_id"
-                                            value={enquiry.enquirer_email_id}
-                                            onChange={handleChange}
-                                        />
-                                    </Form.Group>         
-                                    <Form.Group controlId="enquirerQuery">
-                                        <Form.Label>Student Query</Form.Label>
-                                        <Form.Control
-                                            as="textarea"
-                                            rows={5}
-                                            name="enquirer_query"
-                                            value={enquiry.enquirer_query}
-                                            onChange={handleChange}
-                                            placeholder="Enter your text here..."
-                                        />
-                                    </Form.Group>
-                                    <Form.Group controlId="followupMsg">
-                                        <Form.Label>Follow-up Message</Form.Label>
-                                        <Form.Control
-                                            as="textarea"
-                                            rows={5}
-                                            name="followup_msg"
-                                            value={enquiry.followup_msg}
-                                            onChange={handleChange}
-                                            placeholder="Enter your follow-up message..."
-                                        />
-                                    </Form.Group>
-                                    <Label>Do you want to close enquiry?</Label>
-                                    <Form.Group controlId="closeEnquiry">
-                                        <div>
-                                            <Form.Check
-                                                type="radio"
-                                                label="Yes"
-                                                name="close_enquiry"
-                                                value="yes"
-                                                checked={enquiry.close_enquiry === 'yes'}
-                                                onChange={handleCloseEnquiryChange}
-                                            />
-                                            <Form.Check
-                                                type="radio"
-                                                label="No"
-                                                name="close_enquiry"
-                                                value="no"
-                                                checked={enquiry.close_enquiry === 'no'}
-                                                onChange={handleCloseEnquiryChange}
-                                            />
-                                        </div>
-                                    </Form.Group>
-                                    {renderClosureReasonInput()}
-                                    <Button variant="primary" type="submit">
-                                        Submit
-                                    </Button>
+            <Dashoption />
+            <Row className="justify-content-center">
+                <div className="col-sm-5">
+                    <h3 className="text-center">Enquiry Followup</h3>
+                    <Form onSubmit={handleSubmit}>
+                        <Form.Group controlId="enquirerName">
+                            <Form.Label>Enquirer Name</Form.Label>
+                            <Form.Control
+                                type="text"
+                                name="enquirer_name"
+                                value={enquiry.enquirer_name}
+                                onChange={handleChange}
+                            />
+                        </Form.Group>
 
-                                    <br/><br/><br/><br/><br/><br/><br/><br/>
-                                </Form>
-                            </Col>
-                        </Row>
-                    </Container>
-                </Col>
+                        <Form.Group controlId="enquirerMobile">
+                            <Form.Label>Mobile No.</Form.Label>
+                            <Form.Control
+                                type="text"
+                                name="enquirer_mobile"
+                                value={enquiry.enquirer_mobile}
+                                onChange={handleChange}
+                            />
+                        </Form.Group>
+                        <Form.Group controlId="enquirerEmail">
+                            <Form.Label>Email</Form.Label>
+                            <Form.Control
+                                type="text"
+                                name="enquirer_email_id"
+                                value={enquiry.enquirer_email_id}
+                                onChange={handleChange}
+                            />
+                        </Form.Group>
+                        <Form.Group controlId="enquirerQuery">
+                            <Form.Label>Student Query</Form.Label>
+                            <Form.Control
+                                as="textarea"
+                                rows={5}
+                                name="enquirer_query"
+                                value={enquiry.enquirer_query}
+                                onChange={handleChange}
+                                placeholder="Enter your text here..."
+                            />
+                        </Form.Group>
+                        <Form.Group controlId="followupMsg">
+                            <Form.Label>Follow-up Message</Form.Label>
+                            <Form.Control
+                                as="textarea"
+                                rows={5}
+                                name="followup_msg"
+                                value={enquiry.followup_msg}
+                                onChange={handleChange}
+                                placeholder="Enter your follow-up message..."
+                            />
+                        </Form.Group>
+                        <Label>Do you want to close enquiry?</Label>
+                        <Form.Group controlId="closeEnquiry">
+                            <div>
+                                <Form.Check
+                                    type="radio"
+                                    label="Yes"
+                                    name="close_enquiry"
+                                    value="yes"
+                                    checked={enquiry.close_enquiry === 'yes'}
+                                    onChange={handleCloseEnquiryChange}
+                                />
+                                <Form.Check
+                                    type="radio"
+                                    label="No"
+                                    name="close_enquiry"
+                                    value="no"
+                                    checked={enquiry.close_enquiry === 'no'}
+                                    onChange={handleCloseEnquiryChange}
+                                />
+                            </div>
+                        </Form.Group>
+                        {renderClosureReasonInput()}
+                        <Button variant="primary" type="submit" className="mt-3">
+                            Submit
+                        </Button>
+                    </Form>
+                </div>
             </Row>
         </Container>
     );

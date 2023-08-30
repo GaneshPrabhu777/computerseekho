@@ -38,6 +38,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\C-DAC-ComputerSeekho\ComputerSeekhoSpringBoot"/>
+			<item value="E:\C-DAC-ComputerSeekho\ComputerSeekho_SpringBoot"/>
+			<item value="E:\C-DAC-ComputerSeekho"/>
 			<item value="E:\MainProject\mainemploreact"/>
 			<item value="E:\MainProject"/>
 		</list>

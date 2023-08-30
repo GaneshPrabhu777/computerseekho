@@ -1,44 +1,33 @@
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
+import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import CourseDropdown from './Courses/CourseDropdown'
-import './Home/Home.css'
-function Header() {
+import CourseDropdown from './Courses/CourseDropdown';
+import './Home/Home.css';
 
+function Header() {
   return (
-    <Navbar sticky='top' expand="lg" className="bg-light">
-      <Container>
-        <Nav.Link href="/">
-          <Navbar.Brand><img src="/images/Logo.png" width="200" /></Navbar.Brand>
-        </Nav.Link>
+    <Navbar expand="lg" className="modern-header">
+      <div className="container">
+        <Navbar.Brand href="/">
+          <img src="/images/Logo.png" alt="Logo" className="logo" />
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="a" >
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="About">About Us</Nav.Link>
-            {/* <Nav.Link href="/CourseList">Course</Nav.Link> */}
+          <Nav className="ml-auto">
+            <Nav.Link href="/" className="nav-link">Home</Nav.Link>
+            <Nav.Link href="About" className="nav-link">About Us</Nav.Link>
             <CourseDropdown />
-
-
-
-            {/* <NavDropdown title="Courses" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">PG-DAC</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">PD-DBDA</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">MS-CIT</NavDropdown.Item>
-            </NavDropdown> */}
-            <Nav.Link href="#">Gallery</Nav.Link>
-
-            <Nav.Link href="placement">Placement</Nav.Link>
-            <Nav.Link href="Contactus">Contact Us</Nav.Link>
-            <NavDropdown title="Admin Panel" id="basic-nav-dropdown">
+            <Nav.Link href="gallery" className="nav-link">Gallery</Nav.Link>
+            <Nav.Link href="placement" className="nav-link">Placement</Nav.Link>
+            <Nav.Link href="Contactus" className="nav-link">Contact Us</Nav.Link>
+            <NavDropdown title="Admin Panel" id="basic-nav-dropdown" className="nav-link">
               <NavDropdown.Item href="StaffLogin">Staff Login</NavDropdown.Item>
               <NavDropdown.Item href="adminlogin">Admin Login</NavDropdown.Item>
-
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
-      </Container>
+      </div>
     </Navbar>
   );
 }

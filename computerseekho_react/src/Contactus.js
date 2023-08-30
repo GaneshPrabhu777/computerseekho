@@ -35,26 +35,40 @@ function ContactUs() {
     }
   };
 
-  const getNextStaff = () => {
+  const getNextStaff = async () => {
     const nextStaffIndex = (currentStaffIndex + 1) % staffList.length;
     setCurrentStaffIndex(nextStaffIndex);
-    return staffList[nextStaffIndex];
+    const selectedStaff = staffList[nextStaffIndex];
+  
+    try {
+      const response = await fetch(`http://localhost:8080/api/staff/${selectedStaff.staff_id}`);
+      const staffData = await response.json();
+  
+      if (staffData.staff_role === "office_staff") {
+        return staffData;
+      } else {
+        console.error('Selected staff does not have the required staff_role.');
+        return null;
+      }
+    } catch (error) {
+      console.error('Error fetching staff data:', error);
+      return null;
+    }
   };
-
+  
   const handleEnquirySubmit = async (e) => {
     e.preventDefault();
-
-    const selectedStaff = getNextStaff();
-    // console.log('Selected Staff:', selectedStaff);
-
+  
+    const selectedStaff = await getNextStaff();
+  
     if (!selectedStaff) {
-      console.error('No staff found');
+      console.error('No eligible staff found');
       return;
     }
-
+  
     const enrichedEnquiryData = {
       ...enquiryData,
-      staff_id: selectedStaff.staff_id // Set the staff_id from the selected staff object
+      staff_id: selectedStaff.staff_id,
     };
 
     // console.log('Enquiry Data:', enrichedEnquiryData);
@@ -73,6 +87,7 @@ function ContactUs() {
         body: JSON.stringify(enrichedEnquiryData), // Use the enrichedEnquiryData object
       }
       );
+      alert("Enquiry Submitted Successfully")
 
 
       if (response.ok) {
@@ -92,7 +107,8 @@ function ContactUs() {
           enquiry_processed_flag: false,
           staff_id: null,
         });
-      } else {
+      } 
+      else {
         console.error('Failed to store enquiry');
       }
     } catch (error) {
