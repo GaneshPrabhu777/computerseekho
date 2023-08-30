@@ -21,9 +21,9 @@ public class Batch {
 	
 	
 	@Id
-//	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "batch_id", length=16)
-	private String batch_id;
+	private int batch_id;
 	
 	@Column(name = "batch_name", length=20, unique=true)
 	private String batch_name;
@@ -31,6 +31,14 @@ public class Batch {
 	@Column(name = "batch_start_time", nullable = false)
 	private Date batch_start_time;
 	
+	public int getCourse_id() {
+		return course_id;
+	}
+
+	public void setCourse_id(int course_id) {
+		this.course_id = course_id;
+	}
+
 	@Column(name = "batch_end_time", nullable = false)
 	private Date batch_end_time; 
 
@@ -41,30 +49,47 @@ public class Batch {
 	@Column(name = "batch_fees", nullable = false, columnDefinition = "DECIMAL(10,2)")
 	private float batch_fees;
 	
-	@OneToMany(cascade = CascadeType.ALL)
-	@JoinColumn(name = "batch_id", referencedColumnName = "batch_id")
-	private Set<Student> student;
+//	@OneToMany(cascade = CascadeType.ALL)
+//	@JoinColumn(name = "batch_id", referencedColumnName = "batch_id")
+//	private Set<Student> student;
+	@Column(name="course_id")
+	private int course_id;
 	
 
 	/**
 	 * @return the batch_id
 	 */
-	public String getBatch_id() {
-		return batch_id;
-	}
 
-	/**
-	 * @param batch_id the batch_id to set
-	 */
-	public void setBatch_id(String batch_id) {
-		this.batch_id = batch_id;
-	}
 
 	/**
 	 * @return the batch_name
 	 */
 	public String getBatch_name() {
 		return batch_name;
+	}
+
+	public int getBatch_id() {
+		return batch_id;
+	}
+
+	public void setBatch_id(int batch_id) {
+		this.batch_id = batch_id;
+	}
+
+//	public Set<Student> getStudent() {
+//		return student;
+//	}
+//
+//	public void setStudent(Set<Student> student) {
+//		this.student = student;
+//	}
+
+	public int getCourse_Id() {
+		return course_id;
+	}
+
+	public void setCourse_Id(int course_Id) {
+		this.course_id = course_Id;
 	}
 
 	/**

@@ -41,9 +41,23 @@ public class Student {
 	
 	@Column(nullable = false)
 	private String  student_mobile ;
+	private int batch_id;
+    private String student_email;
 
 
 
+	public String getStudent_email() {
+		return student_email;
+	}
+	public void setStudent_email(String student_email) {
+		this.student_email = student_email;
+	}
+	public int getBatch_id() {
+		return batch_id;
+	}
+	public void setBatch_id(int batch_id) {
+		this.batch_id = batch_id;
+	}
 	public int getStudent_id() {
 		return student_id;
 	}

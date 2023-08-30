@@ -1,9 +1,12 @@
 package com.example.controllers;
 
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -24,9 +27,20 @@ public class EnquiryController {
 
 	@PostMapping(value = "api/new_enquiry")
 	public void FormSubmit(@RequestBody Enquiry enquiry) {
-		enq.Formsubmit(enquiry);
-	}
-	
+        // Get the enquiry date
+        Date enquiryDate = enquiry.getEnquiry_date();
+        
+        // Calculate the follow-up date by adding three days
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(enquiryDate);
+        cal.add(Calendar.DAY_OF_MONTH, 3);
+        Date followUpDate = cal.getTime();
+        
+        // Set the follow-up date in the Enquiry object
+        enquiry.setFollow_up_date(followUpDate);
+
+        enq.Formsubmit(enquiry);
+    }
 //	@DeleteMapping(value="/api/del_enquiry/{id}")
 //	public void DeleteById(@PathVariable int id)
 //	{
@@ -52,10 +66,22 @@ public class EnquiryController {
 		return p;
 	}
 	
-	@PutMapping(value="api/update/{id}")
-	public void update(@RequestBody Enquiry e,@PathVariable int id)
+	/*@PutMapping(value="api/update/{id}")
+	public void updatedata(@RequestBody Enquiry e,@PathVariable int id)
 	{
 		enq.update(e, id);
-	}
+	}*/
+	
+	 @PutMapping("api/update_enquiry/{enquiryId}")
+	    public void updateEnquiry(@PathVariable int enquiryId, @RequestBody Enquiry enquiry) {
+	        
+	            enq.updateEnquiry(enquiryId, enquiry);
+	            
+	    }
+	
+	@GetMapping("api/getEnquiriesByStaffId/{staff_id}")
+    public List<Enquiry> getEnquiriesByStaffId(@PathVariable int staff_id) {
+            return enq.getEnquiriesByStaffId(staff_id);
+        }
 
 }

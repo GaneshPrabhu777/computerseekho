@@ -1,6 +1,10 @@
 package com.example.entities;
 
 
+import java.util.List;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -18,7 +22,7 @@ public class Staff {
 	private String staff_username;
 	private String staff_password;
 	private String staff_role;
-	private boolean staff_isactive=true;
+	private boolean staff_isactive=true;	
 	
 	public boolean isStaff_isactive() {
 		return staff_isactive;

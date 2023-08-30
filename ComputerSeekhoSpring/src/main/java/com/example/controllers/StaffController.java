@@ -1,5 +1,6 @@
 package com.example.controllers;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -8,6 +9,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.*;
 
+import com.example.entities.Enquiry;
 import com.example.entities.Staff;
 import com.example.managers.StaffManager;
 
@@ -18,6 +20,13 @@ public class StaffController {
 	@Autowired
 	StaffManager smng;
 
+	@GetMapping(value="api/getEnqbystaff/{id}")
+	   public List<Enquiry> getAllEnqForStaff(@PathVariable int id) {
+		return smng.getAllEnquiriesForStaff(id);
+	}	
+
+	
+	
 	@GetMapping(value = "api/staff")
 	public List<Staff> showStaff() {
 		return smng.getStaff();
@@ -27,6 +36,7 @@ public class StaffController {
 	public Optional<Staff> getStaff(@PathVariable int sid) {
 
 		Optional<Staff> s = smng.getStaff(sid);
+		
 		return s;
 	}
 	

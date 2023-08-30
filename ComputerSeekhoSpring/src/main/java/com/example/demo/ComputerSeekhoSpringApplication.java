@@ -19,12 +19,12 @@ public class ComputerSeekhoSpringApplication {
 		SpringApplication.run(ComputerSeekhoSpringApplication.class, args);
 	}
 		
-	    public void addCorsMappings(CorsRegistry registry) {
+	    //public void addCorsMappings(CorsRegistry registry) {
 //	        registry.addMapping("/api/**")
 //	                .allowedOrigins("http://localhost:3000") // Replace with your frontend origin
 //	                .allowedMethods("GET", "POST", "PUT", "DELETE")
 //	                .allowedHeaders("*")
 //	                .allowCredentials(true);
-	    }
+	    
 		
 	}

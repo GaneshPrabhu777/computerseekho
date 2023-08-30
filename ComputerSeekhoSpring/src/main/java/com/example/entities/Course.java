@@ -4,6 +4,7 @@ import java.util.Set;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -34,14 +35,11 @@ public class Course {
 	private String cover_photo;
 	
 	private int video_id;
-	
 
-	@OneToMany(cascade = CascadeType.ALL)
-	@JoinColumn(name = "course_id", referencedColumnName="course_id")
-	private Set<Batch> batches;
-	@OneToMany(cascade = CascadeType.ALL)
-	@JoinColumn(name = "course_id", referencedColumnName="course_id")
-	private Set<Student> Student;
+//	private Set<Batch> batches;
+//	@OneToMany(cascade = CascadeType.ALL)
+//	@JoinColumn(name = "course_id", referencedColumnName="course_id")
+//	private Set<Student> Student;
 
 	/**
 	 * @return the course_id
@@ -169,6 +167,13 @@ public class Course {
 		this.video_id = video_id;
 	}
 
+//	public Set<Batch> getBatches() {
+//		return batches;
+//	}
+//
+//	public void setBatches(Set<Batch> batches) {
+//		this.batches = batches;
+//	}
 	@Override
 	public String toString() {
 		return "Course [course_id=" + course_id + ", course_name=" + course_name + ", course_description="
