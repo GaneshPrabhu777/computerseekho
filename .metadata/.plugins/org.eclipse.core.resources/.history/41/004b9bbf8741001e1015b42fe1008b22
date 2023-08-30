@@ -1,0 +1,45 @@
+package com.example.controllers;
+
+import java.util.List;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import org.springframework.web.bind.annotation.*;
+
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.entities.Placement;
+import com.example.managers.*;
+
+
+@RestController
+@CrossOrigin("*")
+public class PlacementController
+{
+	@Autowired
+	private PlacementManager manager;
+	
+	@GetMapping(value="/api/getplacement")
+	public List<Placement> getplaced() {
+		// TODO Auto-generated method stub
+		    return manager.getPlacement();
+	}
+
+//	@PutMapping(value="api/placementedit/{}pid")
+//	public void updateCourse(@RequestBody Placement p, @PathVariable int pid) {
+//		// TODO Auto-generated method stub
+//		      manager.updatePlacement(p, 0);
+//	}
+
+
+	@PostMapping(value="/api/addplacement")
+	public void addplace(@RequestBody Placement placement) {
+		   manager.addPlacement(placement);
+		
+	}
+	
+}

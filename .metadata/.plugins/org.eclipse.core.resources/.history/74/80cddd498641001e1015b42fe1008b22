@@ -1,0 +1,15 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.example.entities.Course;
+import com.example.entities.Placement;
+
+public interface PlacementManager
+{
+	 void addPlacement(Placement p);
+	 void updatePlacemnet(Placement p, int id);
+	 List<Placement>getPlacement();
+
+}

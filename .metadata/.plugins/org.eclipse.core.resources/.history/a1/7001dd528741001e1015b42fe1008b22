@@ -1,0 +1,16 @@
+package com.example.managers;
+
+import java.util.List;
+
+
+
+import com.example.entities.Placement;
+
+public interface PlacementManager
+{
+	 void addPlacement(Placement p);
+	 
+	 List<Placement>getPlacement();
+	void updatePlacement(Placement p, int id);
+
+}

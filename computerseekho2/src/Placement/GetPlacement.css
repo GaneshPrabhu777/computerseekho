@@ -1,0 +1,35 @@
+.placement-table-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    background-color: #f7f7f7;
+  }
+  
+  .placement-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .placement-table th,
+  .placement-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .placement-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .placement-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .placement-table tr:hover {
+    background-color: #ddd;
+  }
+  
