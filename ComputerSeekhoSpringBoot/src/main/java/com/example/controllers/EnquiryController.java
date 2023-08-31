@@ -41,11 +41,7 @@ public class EnquiryController {
 
         enq.Formsubmit(enquiry);
     }
-//	@DeleteMapping(value="/api/del_enquiry/{id}")
-//	public void DeleteById(@PathVariable int id)
-//	{
-//		enq.DeleteById(id);
-//	}
+
 	
 	@GetMapping(value="api/getenq")
 	public List<Enquiry> GetAllList()

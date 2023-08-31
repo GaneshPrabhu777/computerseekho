@@ -17,7 +17,9 @@ const Bootstraptab1 = () => {
   useEffect(() => {
     axios.get('http://localhost:8080/api/getenq')
       .then(response => {
-        setEnquiry(response.data);
+        // Filter enquiries based on enquiry_processed_flag
+        const filteredEnquiry = response.data.filter(enq => enq.enquiry_processed_flag === false);
+        setEnquiry(filteredEnquiry);
       })
       .catch(error => {
         console.error(error);

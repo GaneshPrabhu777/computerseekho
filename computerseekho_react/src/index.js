@@ -36,6 +36,7 @@ import EditStudentForm from './Student/EditStudent';
 import Call from './StaffDashboard/Call';
 import UpcomingBatchTable from './Batch/BatchList';
 import Gallery from './Gallery';
+import AdminStudlist from './Admin_panel/AdminStudlist';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -61,7 +62,7 @@ root.render(
           <Route path="followups" element={<Followups />} />
           <Route path="addenq" element={<AddEnquiry />} />
           <Route path="allenq" element={<AllEnq />} />
-          <Route path="newreg" element={<StudentRegistrationForm />} />
+          <Route path="newreg/:enquiry_id" element={<StudentRegistrationForm />} />
           <Route path="placerecord" element={<StaffSidePlacement />} />
           <Route path="addplace" element={<AddPlacement />} />
           <Route path="editplace/:id" element={<PlacementEdit />} />
@@ -69,6 +70,8 @@ root.render(
           <Route path="enqlist" element={<AdminAllEnq />} />
           <Route path="batch" element={<UpcomingBatchTable />} />
           <Route path="studlist" element={<StudentTable />} />
+          <Route path="admstudlist" element={<AdminStudlist />} />
+
           <Route path="studentedit/:id" element={<EditStudentForm />} />
           <Route path="addstudent" element={<StudentRegistrationForm />} />
           <Route path="call/:id" element={<Call />} />
@@ -82,7 +85,6 @@ root.render(
           <Route path="showstaff" element={<AllStaffAdmin />} />
           <Route path="addstaff" element={<CreateStaff />} />
           <Route path="staff/:id" element={<StaffEdit />} />
-          {/* <Route path="staff/:id" element={<Course />} /> */}
 
 
           <Route path="allstaff" element={<AllStaff />} />

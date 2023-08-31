@@ -18,7 +18,8 @@ const Bootstraptab1 = () => {
   useEffect(() => {
     axios.get('http://localhost:8080/api/getenq')
       .then(response => {
-        setEnquiry(response.data);
+        const openEnquiries = response.data.filter(item => !item.enquiry_processed_flag);
+        setEnquiry(openEnquiries);
       })
       .catch(error => {
         console.error(error);
@@ -91,13 +92,31 @@ const Bootstraptab1 = () => {
     {
       dataField: 'actions',
       formatter: (cell, row) => (
-        <a href={"/newreg/?enquiry_id=" + row.enquiry_id}>
+        <a href={"/newreg/" + row.enquiry_id}>
           <Button variant="secondary">Register</Button>
         </a>
       ),
       headerStyle: { width: '100px' },
       style: { width: '100px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' },
     },
+    // {
+    //   dataField: 'enquiry_processed_flag',
+    //   text: 'Status',
+    //   formatter: (cellContent, row) => (
+    //     <div
+    //       style={{
+    //         backgroundColor: row.enquiry_processed_flag ? "red" : "green",
+    //         color: "white",
+    //         textAlign: "center",
+    //       }}
+    //     >
+    //       {row.enquiry_processed_flag ? "Close" : "Open"}
+    //     </div>
+    //   ),
+    //   sort: true,
+    //   headerStyle: { width: '80px' }, // Set the width for the header
+    //   style: { width: '100px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' },
+    // },
   ];
 
   const options = {

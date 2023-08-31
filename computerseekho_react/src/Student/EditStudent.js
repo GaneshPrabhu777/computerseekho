@@ -56,7 +56,7 @@ function EditStudentForm() {
         if (response.ok) {
           console.log("Student updated successfully");
          alert("Data updated")
-          navigate("studlist");
+          navigate("/studlist/");
         } else {
           console.error("Error updating student");
         }

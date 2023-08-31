@@ -16,14 +16,14 @@ function Header() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
             <Nav.Link href="/" className="nav-link">Home</Nav.Link>
-            <Nav.Link href="About" className="nav-link">About Us</Nav.Link>
+            <Nav.Link href="/About/" className="nav-link">About Us</Nav.Link>
             <CourseDropdown />
-            <Nav.Link href="gallery" className="nav-link">Gallery</Nav.Link>
-            <Nav.Link href="placement" className="nav-link">Placement</Nav.Link>
-            <Nav.Link href="Contactus" className="nav-link">Contact Us</Nav.Link>
+            <Nav.Link href="/gallery/" className="nav-link">Gallery</Nav.Link>
+            <Nav.Link href="/placement/" className="nav-link">Placement</Nav.Link>
+            <Nav.Link href="/Contactus/" className="nav-link">Contact Us</Nav.Link>
             <NavDropdown title="Admin Panel" id="basic-nav-dropdown" className="nav-link">
-              <NavDropdown.Item href="StaffLogin">Staff Login</NavDropdown.Item>
-              <NavDropdown.Item href="adminlogin">Admin Login</NavDropdown.Item>
+              <NavDropdown.Item href="/StaffLogin/">Staff Login</NavDropdown.Item>
+              <NavDropdown.Item href="/adminlogin/">Admin Login</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>

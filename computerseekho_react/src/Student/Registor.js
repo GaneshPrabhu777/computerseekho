@@ -5,11 +5,8 @@ import Button from "react-bootstrap/Button";
 import { useNavigate, useParams } from "react-router-dom";
 
 function StudentRegistrationForm() {
-  // Initialize navigation and get the enquiry_id from URL params
   const navigate = useNavigate();
   const { enquiry_id } = useParams();
-
-  // State variables to store data
   const [courses, setCourses] = useState([]);
   const [batches, setBatches] = useState([]);
   const [selectedCourseId, setSelectedCourseId] = useState("");
@@ -21,14 +18,11 @@ function StudentRegistrationForm() {
     student_dob: "",
     student_qualification: "",
     student_mobile: "",
-    student_email: "",
-  });
-  const [enquiryData, setEnquiryData] = useState({
-    enquirer_mobile: "",
-    enquirer_email: "",
+    course_id: "",
+    batch_id: "",
+    student_email:"",
   });
 
-  // Fetch list of courses from the server
   useEffect(() => {
     fetch("http://localhost:8080/api/courses")
       .then((response) => response.json())
@@ -40,7 +34,6 @@ function StudentRegistrationForm() {
       });
   }, []);
 
-  // Fetch batches based on selected course
   useEffect(() => {
     if (selectedCourseId) {
       fetch(`http://localhost:8080/api/getBatchByCourseId/${selectedCourseId}`)
@@ -54,31 +47,17 @@ function StudentRegistrationForm() {
     }
   }, [selectedCourseId]);
 
-  // Fetch enquiry data and populate form fields
   useEffect(() => {
     if (enquiry_id) {
       fetch(`http://localhost:8080/api/getById/${enquiry_id}`)
         .then((response) => response.json())
         .then((fetchedEnquiryData) => {
-          // Set enquiry data state
-          setEnquiryData({
-            enquirer_mobile: fetchedEnquiryData.enquirer_mobile,
-            enquirer_email: fetchedEnquiryData.enquirer_email,
-          });
-
-          // Populate form fields with enquiry data
           setStudentData((prevStudentData) => ({
             ...prevStudentData,
             student_name: fetchedEnquiryData.enquirer_name,
-            student_address: fetchedEnquiryData.enquirer_address,
-            student_gender: fetchedEnquiryData.enquirer_gender,
-            student_dob: fetchedEnquiryData.enquirer_dob,
-            student_qualification: fetchedEnquiryData.enquirer_qualification,
             student_mobile: fetchedEnquiryData.enquirer_mobile,
-            student_email: fetchedEnquiryData.enquirer_email,
+            student_email: fetchedEnquiryData.enquirer_email_id,
           }));
-
-          // Set selected course and batch based on enquiry data
           setSelectedCourseId(fetchedEnquiryData.course_id);
           setSelectedBatchId(fetchedEnquiryData.batch_id);
         })
@@ -88,18 +67,16 @@ function StudentRegistrationForm() {
     }
   }, [enquiry_id]);
 
-  // Handle course selection change
   const handleCourseChange = (e) => {
     setSelectedCourseId(e.target.value);
     setSelectedBatchId("");
   };
 
-  // Handle batch selection change
+ 
   const handleBatchChange = (e) => {
     setSelectedBatchId(e.target.value);
   };
 
-  // Handle form field changes
   const handleChange = (e) => {
     const { name, value } = e.target;
     setStudentData((prevData) => ({
@@ -108,13 +85,12 @@ function StudentRegistrationForm() {
     }));
   };
 
-  // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
     const registrationData = {
-      ...studentData,
-      course_id: selectedCourseId,
-      batch_id: selectedBatchId,
+        ...studentData,
+        course_id: selectedCourseId,
+        batch_id: selectedBatchId
     };
 
     fetch("http://localhost:8080/api/students", {
@@ -232,7 +208,7 @@ function StudentRegistrationForm() {
           />
         </Form.Group>
         <Form.Group>
-          <Form.Label>Student Mobile:</Form.Label>
+          <Form.Label>Mobile:</Form.Label>
           <Form.Control
             type="text"
             name="student_mobile"
@@ -242,17 +218,16 @@ function StudentRegistrationForm() {
           />
         </Form.Group>
         <Form.Group>
-          <Form.Label>Student Email:</Form.Label>
+          <Form.Label>Email:</Form.Label>
           <Form.Control
             type="email"
             name="student_email"
             value={studentData.student_email}
             onChange={handleChange}
             required
-            readOnly  // Make the student email field read-only
           />
         </Form.Group>
-        
+        <br/>
         <Button variant="primary" type="submit">
           Register
         </Button>

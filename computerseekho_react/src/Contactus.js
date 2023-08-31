@@ -35,40 +35,26 @@ function ContactUs() {
     }
   };
 
-  const getNextStaff = async () => {
+  const getNextStaff = () => {
     const nextStaffIndex = (currentStaffIndex + 1) % staffList.length;
     setCurrentStaffIndex(nextStaffIndex);
-    const selectedStaff = staffList[nextStaffIndex];
-  
-    try {
-      const response = await fetch(`http://localhost:8080/api/staff/${selectedStaff.staff_id}`);
-      const staffData = await response.json();
-  
-      if (staffData.staff_role === "office_staff") {
-        return staffData;
-      } else {
-        console.error('Selected staff does not have the required staff_role.');
-        return null;
-      }
-    } catch (error) {
-      console.error('Error fetching staff data:', error);
-      return null;
-    }
+    return staffList[nextStaffIndex];
   };
-  
+
   const handleEnquirySubmit = async (e) => {
     e.preventDefault();
-  
-    const selectedStaff = await getNextStaff();
-  
+
+    const selectedStaff = getNextStaff();
+    // console.log('Selected Staff:', selectedStaff);
+
     if (!selectedStaff) {
-      console.error('No eligible staff found');
+      console.error('No staff found');
       return;
     }
-  
+
     const enrichedEnquiryData = {
       ...enquiryData,
-      staff_id: selectedStaff.staff_id,
+      staff_id: selectedStaff.staff_id // Set the staff_id from the selected staff object
     };
 
     // console.log('Enquiry Data:', enrichedEnquiryData);
@@ -87,7 +73,6 @@ function ContactUs() {
         body: JSON.stringify(enrichedEnquiryData), // Use the enrichedEnquiryData object
       }
       );
-      alert("Enquiry Submitted Successfully")
 
 
       if (response.ok) {
@@ -107,8 +92,7 @@ function ContactUs() {
           enquiry_processed_flag: false,
           staff_id: null,
         });
-      } 
-      else {
+      } else {
         console.error('Failed to store enquiry');
       }
     } catch (error) {
@@ -164,42 +148,7 @@ function ContactUs() {
               onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
             />
 
-            {/* <Form.Group controlId="email">
-              <Form.Label>Email</Form.Label>
-              <Form.Control
-                type="text"
-                placeholder="Email"
-                name="enquirer_email_id"
-                onChange={handleChange}
-              />
-            </Form.Group>
-
-            <Form.Group controlId="query">
-              <Form.Label>Your Query</Form.Label>
-              <Form.Control
-                as="textarea"
-                rows={5}
-                name="enquirer_query"
-                onChange={handleChange}
-                placeholder="Enter your text here..."
-              />
-            </Form.Group>
-            <Form.Group controlId="enquiry_date">
-              <Form.Label></Form.Label>
-              <Form.Control
-                type="text"
-                hidden
-                rows={5}
-                name="enquirer_date"
-                
-                onChange={handleChange}
-                placeholder="Enter your text here..."
-              /> */}
-            {/* <div className='container'>
-                <h2>React Js Formatted Date YYYY/MM/DD</h2>
-                <p>Formatted Date: {formattedDate}</p>
-              </div> */}
-            {/* </Form.Group> */}
+            
             <Button variant="primary" type="submit" className="mt-3">
               Submit
             </Button>

@@ -106,7 +106,7 @@ export function AllEnq(props) {
 
   return (
     <>
-     <Dashoption />
+      <Dashoption />
       <Container fluid>
         <Row>
           <Col md="12">
@@ -127,7 +127,7 @@ export function AllEnq(props) {
           </Col>
         </Row>
       </Container>
-      </>
+    </>
   );
 }
 

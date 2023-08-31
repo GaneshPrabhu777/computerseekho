@@ -1,22 +1,23 @@
-// import Container from 'react-bootstrap/Container';
-
-import { Link, NavLink, Navigate, Outlet } from 'react-router-dom';
-import { Col, Button } from 'reactstrap';
+import React from 'react';
+import { Button, Container, Row, Col } from 'reactstrap';
+import { Link } from 'react-router-dom';
+// import './Login/Buttonstyle.css'
 
 function AdminButtons() {
     return (
-        <>
-            <Col md="1">
-                <div className="button-container">
+        <Container fluid>
+            <Row>
+                <Col sm="6">
+                    <div className="button-container">
+                        <Button color="primary" size="sm" tag={Link} to="/showstaff">Staff</Button>
+                        <Button color="primary" size="sm" tag={Link} to="/courselist">Course</Button>
+                        <Button color="primary" size="sm" tag={Link} to="/enqlist">All Enquiry</Button>
+                        <Button color="primary" size="sm" tag={Link} to="/admstudlist">Student List</Button>
+                    </div>
+                </Col>
+            </Row>
+        </Container>
 
-                    <Button color="primary" size="sm" tag={Link} to="/showstaff">Staff</Button>
-                    <Button color="primary" size="sm" tag={Link} to="/courselist">Course</Button>
-                    <Button color="primary" size="sm" tag={Link} to="/enqlist">All Enquiry</Button>
-                    <Button color="primary" size="sm" tag={Link} to="/studlist">Students List</Button>
-
-                </div>
-            </Col>
-        </>
     )
 }
 

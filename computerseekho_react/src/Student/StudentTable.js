@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { Button } from "react-bootstrap";
 import Table from "react-bootstrap/Table";
+import Dashoption from "../Login/dashoption";
 
 function StudentTable() {
   const [students, setStudents] = useState([]);
+  const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
     // Fetch data from the API
@@ -22,14 +24,35 @@ function StudentTable() {
     return date.toISOString().split("T")[0]; // Get only the date part
   };
 
+  const handleSearchChange = (e) => {
+    setSearchQuery(e.target.value);
+  };
+
+  const filteredStudents = students.filter((student) =>
+    student.student_name.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+
   return (
-    <div>
-      <h2>Student List</h2>
-      <br/>
+    <div >
+      <Dashoption />
+      <h2 style={{ textAlign: "center" }}>Student List</h2>
+
       <a href={"/addstudent"}>
-        <Button variant="primary" style={{marginLeft : '50px'}}>Add Student</Button>
+        <Button variant="primary" style={{ marginLeft: "50px" }}>
+          Add Student
+        </Button>
       </a>
-    <br/><br/><br/>
+      <div style={{ width: "20%", float: "right", marginRight: "20px" }}>
+        <input
+          type="text"
+          placeholder="Search by student name"
+          value={searchQuery}
+          onChange={handleSearchChange}
+          style={{ width: "100%" }}
+        />
+      </div>
+      <br />
+      <br />
       <Table striped bordered hover>
         <thead>
           <tr>
@@ -43,7 +66,7 @@ function StudentTable() {
           </tr>
         </thead>
         <tbody>
-          {students.map((student) => (
+          {filteredStudents.map((student) => (
             <tr key={student.student_id}>
               <td>{student.student_id}</td>
               <td>{student.student_name}</td>
@@ -52,17 +75,11 @@ function StudentTable() {
               <td>{formatDate(student.student_dob)}</td>
               <td>{student.student_qualification}</td>
               <td>{student.student_mobile}</td>
-              
               <td>
                 <a href={"/studentedit/" + student.student_id}>
                   <Button variant="secondary">Edit</Button>
                 </a>
               </td>
-              {/* <td>
-                <a href={"/newreg"}>
-                  <Button variant="secondary">Register</Button>
-                </a>
-              </td> */}
             </tr>
           ))}
         </tbody>

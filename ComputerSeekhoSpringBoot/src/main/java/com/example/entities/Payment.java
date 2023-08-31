@@ -18,7 +18,6 @@ public class Payment {
 	private String payment_transaction_id;
 	private Date payment_date;
 	private boolean payment_done;
-	private boolean payment_receipt_send;
 	private double amount;
 	private String payment_type ;
 	
@@ -59,13 +58,13 @@ public class Payment {
 		this.payment_done = payment_done;
 	}
 
-	public boolean isPayment_receipt_send() {
-		return payment_receipt_send;
-	}
-
-	public void setPayment_receipt_send(boolean payment_receipt_send) {
-		this.payment_receipt_send = payment_receipt_send;
-	}
+//	public boolean isPayment_receipt_send() {
+//		return payment_receipt_send;
+//	}
+//
+//	public void setPayment_receipt_send(boolean payment_receipt_send) {
+//		this.payment_receipt_send = payment_receipt_send;
+//	}
 
 	public double getAmount() {
 		return amount;

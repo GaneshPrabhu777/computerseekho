@@ -1,0 +1,23 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.example.entities.Payment;
+
+
+
+public interface PaymentManager {
+
+
+	public List<Payment> GetAll();
+	public Optional<Payment> FindById(@PathVariable int id);
+	
+	public Optional<Payment> GetByName(String name);
+	
+	public void update(Payment e,int id);
+	
+}

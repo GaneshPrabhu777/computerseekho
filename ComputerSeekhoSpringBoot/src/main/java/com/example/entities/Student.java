@@ -42,9 +42,15 @@ public class Student {
 	@Column(nullable = false)
 	private String  student_mobile ;
 	private int batch_id;
-    private String student_email;
-
-
+	private int course_id;
+	private String student_email;
+	
+    public int getCourse_id() {
+		return course_id;
+	}
+	public void setCourse_id(int course_id) {
+		this.course_id = course_id;
+	}
 
 	public String getStudent_email() {
 		return student_email;
