@@ -1,6 +1,7 @@
 package com.example.managers;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -25,7 +26,7 @@ public class BatchServiceImpl implements BatchService {
 		return b_repository.findAll();
 	}
 	@Override
-	public Batch getBatch(String batchno) {
+	public Optional<Batch> getBatch(int batchno) {
 		
 		return b_repository.getBatch(batchno);
 	}

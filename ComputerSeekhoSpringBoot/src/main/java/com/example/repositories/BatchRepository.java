@@ -1,6 +1,7 @@
 package com.example.repositories;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
@@ -13,7 +14,7 @@ import com.example.entities.Batch;
 public interface BatchRepository extends JpaRepository<Batch, Integer>{
 	
 	@Query(value="select * from Batch  where batch_Id=:batchno",nativeQuery = true)
-	Batch getBatch(@Param("batchno")String batchno);
+	Optional<Batch> getBatch(@Param("batchno")int batchno);
 	
 	@Query(value="SELECT * FROM Batch WHERE batch_start_time > CURDATE();",nativeQuery=true)
 	List<Batch> getUpcomingBatch();

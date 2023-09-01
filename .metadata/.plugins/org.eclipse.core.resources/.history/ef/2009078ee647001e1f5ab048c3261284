@@ -1,0 +1,26 @@
+package com.example.controllers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.example.entities.Payment;
+import com.example.managers.PaymentManager;
+
+public class PaymentController {
+
+	PaymentManager pmng;
+	
+	@GetMapping(value="api/getallpayment")
+	public List<Payment> getall(){
+		return pmng.GetAll();
+	}
+	
+	@GetMapping(value="api/getpaymentbyid/{id}")
+	public Optional<Payment> findbyid(@PathVariable int id){
+		return pmng.FindById(id);
+	}
+	
+}

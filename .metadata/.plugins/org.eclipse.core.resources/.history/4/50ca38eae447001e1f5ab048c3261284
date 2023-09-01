@@ -1,0 +1,20 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.example.entities.Payment;
+
+public interface PaymentManager {
+
+	public List<Payment> GetAll();
+
+	public Optional<Payment> GetByStudentId(@PathVariable int id);
+
+//	public void update(Payment p, int id);
+
+	public void addpay(Payment p);
+
+}

@@ -17,4 +17,5 @@ public interface  StudentManager {
 	List<Student> getSelected(String name);
 	Optional<Student> getSelectedbyid(int id);
 	void addstudent(Student student);
+	Optional<Student> getstudentenquiry_id(int getbyenquiry_id);
 }

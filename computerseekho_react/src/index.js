@@ -37,6 +37,7 @@ import Call from './StaffDashboard/Call';
 import UpcomingBatchTable from './Batch/BatchList';
 import Gallery from './Gallery';
 import AdminStudlist from './Admin_panel/AdminStudlist';
+import PaymentForm from './Student/Paymennt';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -85,6 +86,7 @@ root.render(
           <Route path="showstaff" element={<AllStaffAdmin />} />
           <Route path="addstaff" element={<CreateStaff />} />
           <Route path="staff/:id" element={<StaffEdit />} />
+          <Route path="payment/:enquiry_id" element={<PaymentForm/>} />
 
 
           <Route path="allstaff" element={<AllStaff />} />

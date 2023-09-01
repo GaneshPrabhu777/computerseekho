@@ -24,6 +24,8 @@ public class Student {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int student_id;
 	
+	
+
 	@Column(nullable = false)
 	private String  student_name ;
 	
@@ -44,6 +46,7 @@ public class Student {
 	private int batch_id;
 	private int course_id;
 	private String student_email;
+	private int enquiry_id;
 	
     public int getCourse_id() {
 		return course_id;
@@ -106,7 +109,13 @@ public class Student {
 	public void setStudent_mobile(String student_mobile) {
 		this.student_mobile = student_mobile;
 	}
-	
+	public int getEnquiry_id() {
+		return enquiry_id;
+	}
+	public void setEnquiry_id(int enquiry_id) {
+		this.enquiry_id = enquiry_id;
+	}
+
 	
 	@Override
 	public String toString() {

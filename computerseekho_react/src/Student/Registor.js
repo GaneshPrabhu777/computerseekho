@@ -3,6 +3,7 @@ import "./StudentRegistrationForm.css";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import { useNavigate, useParams } from "react-router-dom";
+import PaymentForm from "./Paymennt";
 
 function StudentRegistrationForm() {
   const navigate = useNavigate();
@@ -18,9 +19,10 @@ function StudentRegistrationForm() {
     student_dob: "",
     student_qualification: "",
     student_mobile: "",
-    course_id: "",
-    batch_id: "",
+    // course_id: "",
+    // batch_id: "",
     student_email:"",
+    enquiry_id:"",
   });
 
   useEffect(() => {
@@ -57,6 +59,7 @@ function StudentRegistrationForm() {
             student_name: fetchedEnquiryData.enquirer_name,
             student_mobile: fetchedEnquiryData.enquirer_mobile,
             student_email: fetchedEnquiryData.enquirer_email_id,
+            enquiry_id : fetchedEnquiryData.enquiry_id,
           }));
           setSelectedCourseId(fetchedEnquiryData.course_id);
           setSelectedBatchId(fetchedEnquiryData.batch_id);
@@ -85,34 +88,42 @@ function StudentRegistrationForm() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
+  
+    if (!selectedCourseId || !selectedBatchId) {
+      console.error("Course and batch must be selected");
+      return;
+    }
+  
     const registrationData = {
-        ...studentData,
-        course_id: selectedCourseId,
-        batch_id: selectedBatchId
+      ...studentData,
+      course_id: selectedCourseId,
+      batch_id: selectedBatchId,
     };
-
-    fetch("http://localhost:8080/api/students", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(registrationData),
-    })
-      .then((response) => {
-        if (response.ok) {
-          console.log("Student registered successfully");
-          // You can reset the form or perform any other necessary actions here
-          navigate(-1);
-        } else {
-          console.error("Error registering student");
-        }
-      })
-      .catch((error) => {
-        console.error("Error:", error);
+  
+    try {
+      const response = await fetch("http://localhost:8080/api/students", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(registrationData),
       });
+  
+      if (response.ok) {
+        console.log("Student registered successfully");
+        
+        // You can reset the form or perform any other necessary actions here
+        navigate("/payment/" + enquiry_id);
+      } else {
+        console.error("Error registering student");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+    }
   };
+  
 
   return (
     <div className="student-registration-form">
@@ -200,13 +211,21 @@ function StudentRegistrationForm() {
         <Form.Group>
           <Form.Label>Qualification:</Form.Label>
           <Form.Control
-            type="text"
+            as="select"
             name="student_qualification"
             value={studentData.student_qualification}
             onChange={handleChange}
             required
-          />
+          >
+            <option value="">Select qualification</option>
+            <option value="High School">High School</option>
+            <option value="Bachelor's Degree">Bachelor's Degree</option>
+            <option value="Master's Degree">Master's Degree</option>
+            <option value="PhD">PhD</option>
+            {/* Add more options as needed */}
+          </Form.Control>
         </Form.Group>
+       
         <Form.Group>
           <Form.Label>Mobile:</Form.Label>
           <Form.Control

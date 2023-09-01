@@ -53,6 +53,12 @@ public class StudentController {
 		manager.addstudent(stud);
 		
 	 }
+	 @GetMapping(value= "api/getbyenquiry_id/{enquiry_id}")
+	 public 
+	 Optional<Student> getstudentenq(@PathVariable int enquiry_id)
+	 {
+		return  manager.getstudentenquiry_id(enquiry_id);
+	 }
 	  
 }
 

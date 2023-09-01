@@ -2,8 +2,6 @@ package com.example.entities;
 
 import java.sql.*;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -18,12 +16,46 @@ public class Payment {
 	private String payment_transaction_id;
 	private Date payment_date;
 	private boolean payment_done;
-	private double amount;
-	private String payment_type ;
+	private double batch_fees;
+	private double fees_paid;
+	private String payment_mode ;
+	private int student_id;
 	
+	public String getPayment_mode() {
+		return payment_mode;
+	}
+
+	public void setPayment_mode(String payment_mode) {
+		this.payment_mode = payment_mode;
+	}
+
+	public double getBatch_fees() {
+		return batch_fees;
+	}
+
+	public void setBatch_fees(double batch_fees) {
+		this.batch_fees = batch_fees;
+	}
+
+	public double getFees_paid() {
+		return fees_paid;
+	}
+
+	public void setFees_paid(double fees_paid) {
+		this.fees_paid = fees_paid;
+	}
+
 	public Payment() {
 		super();
 		// TODO Auto-generated constructor stub
+	}
+
+	public int getStudent_id() {
+		return student_id;
+	}
+
+	public void setStudent_id(int student_id) {
+		this.student_id = student_id;
 	}
 
 	public int getPayment_id() {
@@ -58,28 +90,12 @@ public class Payment {
 		this.payment_done = payment_done;
 	}
 
-//	public boolean isPayment_receipt_send() {
-//		return payment_receipt_send;
-//	}
-//
-//	public void setPayment_receipt_send(boolean payment_receipt_send) {
-//		this.payment_receipt_send = payment_receipt_send;
-//	}
-
-	public double getAmount() {
-		return amount;
-	}
-
-	public void setAmount(double amount) {
-		this.amount = amount;
-	}
-
 	public String getPayment_type() {
-		return payment_type;
+		return payment_mode;
 	}
 
-	public void setPayment_type(String payment_type) {
-		this.payment_type = payment_type;
+	public void setPayment_type(String payment_mode) {
+		this.payment_mode = payment_mode;
 	}
 	
 	

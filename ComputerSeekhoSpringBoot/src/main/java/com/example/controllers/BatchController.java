@@ -1,6 +1,7 @@
 package com.example.controllers;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -33,8 +34,8 @@ public class BatchController {
 	{
 		return service.getAll();
 	}
-	@GetMapping("/api/batch/{batchno}")
-	public Batch getBatch(@PathVariable String batchno)
+	@GetMapping("api/batch/{batchno}")
+	public Optional<Batch> getBatch(@PathVariable int batchno)
 	{
 		return service.getBatch(batchno); 
 	}
