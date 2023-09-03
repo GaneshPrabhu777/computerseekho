@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
     <fullyQualifiedTypeName name="com.example.repositories.StaffRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
     <fullyQualifiedTypeName name="com.example.managers.StaffManager"/>
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
@@ -35,6 +34,13 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-    <fullyQualifiedTypeName name="com.example.entities.Student"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.example.repositories.StudentRepository"/>
+    <fullyQualifiedTypeName name="com.example.repositories.BatchRepository"/>
+    <fullyQualifiedTypeName name="com.example.entities.Student"/>
+    <fullyQualifiedTypeName name="org.hibernate.engine.jdbc.batch.spi.Batch"/>
+    <fullyQualifiedTypeName name="com.example.managers.StudentBatchService"/>
+    <fullyQualifiedTypeName name="com.example.entities.StudentBatchDto"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="com.example.repositories.EnquriyRepository"/>
 </qualifiedTypeNameHistroy>

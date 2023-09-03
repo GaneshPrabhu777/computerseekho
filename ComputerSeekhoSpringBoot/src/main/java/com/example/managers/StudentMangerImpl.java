@@ -45,10 +45,17 @@ public class StudentMangerImpl implements StudentManager {
 		repository.save(student);
 	}
 
+
 	@Override
-	public Optional<Student> getstudentenquiry_id(int getbyenquiry_id) {
+	public List<Student> getstudentenquiry_id(int getbyenquiry_id) {
 		// TODO Auto-generated method stub
 		return repository.getbyenquiry_id(getbyenquiry_id);
+	}
+
+	@Override
+	public void delstud(int student_id) {
+		// TODO Auto-generated method stub
+		repository.deleteById(student_id);
 	}
 	
 	

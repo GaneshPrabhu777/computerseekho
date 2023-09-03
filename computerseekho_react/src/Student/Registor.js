@@ -109,13 +109,15 @@ function StudentRegistrationForm() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify(registrationData),
+
+      
       });
   
       if (response.ok) {
         console.log("Student registered successfully");
-        
+        setTimeout(1000)
         // You can reset the form or perform any other necessary actions here
-        navigate("/payment/" + enquiry_id);
+        navigate("/payment/" + enquiry_id + "/" + selectedBatchId);
       } else {
         console.error("Error registering student");
       }

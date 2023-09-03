@@ -1,0 +1,57 @@
+/* Receipt.css */
+
+/* Apply styles for printing */
+@media print {
+    body {
+      font-size: 12pt; /* Adjust font size as needed */
+      font-family: Arial, sans-serif; /* Specify the desired font family */
+    }
+  
+    header, footer {
+      display: none;
+    }
+  
+    /* Add additional styles for printed content */
+    .receipt {
+      margin: 20px; /* Add margins as needed */
+      border: 2px solid #333; /* Add a border around the receipt */
+      padding: 20px; /* Add padding inside the receipt */
+      background-color: #fff; /* Set background color for the receipt */
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Add a shadow to the receipt */
+    }
+  
+    .receipt h2 {
+      font-size: 24pt; /* Adjust header font size */
+      color: #333; /* Set header text color */
+      text-align: center; /* Center-align the header */
+      margin-bottom: 20px; /* Add space below the header */
+    }
+  
+    .receipt h3 {
+      font-size: 20pt; /* Adjust sub-header font size */
+      color: #666; /* Set sub-header text color */
+    }
+  
+    .receipt p {
+      font-size: 18pt; /* Adjust paragraph font size */
+      margin: 10px 0; /* Add vertical margin to paragraphs */
+    }
+  
+    .payment-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px; /* Add space above the table */
+    }
+  
+    .payment-table th, .payment-table td {
+      border: 1px solid #ddd; /* Add borders to table cells */
+      padding: 10px;
+      text-align: left;
+    }
+  
+    /* Add more styles as needed for proper arrangement */
+    /* You can style the button for printing as well */
+    .receipt button {
+      display: none; /* Hide the print button when printing */
+    }
+  }

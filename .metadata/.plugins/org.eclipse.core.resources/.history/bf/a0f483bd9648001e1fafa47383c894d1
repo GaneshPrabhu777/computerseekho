@@ -1,0 +1,45 @@
+package com.example.managers;
+
+import java.util.List;
+
+import org.hibernate.engine.jdbc.batch.spi.Batch;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.entities.Student;
+import com.example.entities.StudentBatchDto;
+import com.example.repositories.BatchRepository;
+import com.example.repositories.StudentRepository;
+
+import java.util.*;
+
+//StudentBatchService.java
+@Service
+public class StudentBatchService {
+
+	    @Autowired
+	    private StudentRepository studentRepository;
+
+	    @Autowired
+	    private BatchRepository batchRepository;
+
+	    public StudentBatchDto getStudentBatchInfoByEnquiryId(int enquiryId) {
+	        List<Student> student = studentRepository.getbyenqid(enquiryId);
+
+	        if (student != null) {
+	            com.example.entities.Batch batch = batchRepository.findById(student.getBatch_id()).orElse(null);
+
+	            if (batch != null) {
+	                StudentBatchDto studentBatchInfoDTO = new StudentBatchDto();
+	                studentBatchInfoDTO.setStudent_id(student.getStudent_id());
+	                studentBatchInfoDTO.setBatch_fees(batch.getBatch_fees());
+
+	                return studentBatchInfoDTO;
+	            }
+	        }
+
+	        return null;
+	    }
+	}
+
+

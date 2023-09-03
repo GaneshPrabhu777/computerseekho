@@ -37,6 +37,7 @@ public class PaymentMangerImp implements PaymentManager {
 	@Override
 	public void addpayment(Payment p) {
 		prep.save(p);
+		
 
 	}
 

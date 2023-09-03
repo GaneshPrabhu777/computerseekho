@@ -49,6 +49,12 @@ public interface EnquriyRepository extends JpaRepository<Enquiry, Integer> {
 	@Query(value = "select e.* from Enquiry e where e.staff_id = :staff_id", nativeQuery = true)
 	List<Enquiry> findByStaff_id(@Param("staff_id") int staff_id);
 
+	@Modifying
+	@Query(value = "update enquiry e set e.enquiry_processed_flag = true where e.enquiry_id = :id", nativeQuery = true)
+	void changeflagbyid( @Param("id") int id);
+	
+	
+	
 //	@Modifying
 //	@Query(value = "update enquiry e set e.enquirer_name=:name,e.enquirer_address=:address,e.enquirer_mobile=:mobile,e.enquiry_date=current_date(),e.enquirer_email_id=:email,e.enquirer_query=:equery,e.closure_reason=:creason,e.closure_reason_id=:clid,e.enquiry_processed_flag=:eflag,e.follow_up_date=DATE_ADD(CURDATE(),INTERVAL 3 DAY),e.student_name=:sname,e.inquiry_counter=:inc", nativeQuery = true)
 //	void updatef(@Param("name") String enquirer_name, @Param("address") String enquirer_address,

@@ -55,10 +55,16 @@ public class StudentController {
 	 }
 	 @GetMapping(value= "api/getbyenquiry_id/{enquiry_id}")
 	 public 
-	 Optional<Student> getstudentenq(@PathVariable int enquiry_id)
+	 List<Student> getstudentenq(@PathVariable int enquiry_id)
 	 {
 		return  manager.getstudentenquiry_id(enquiry_id);
 	 }
 	  
+	 @DeleteMapping(value= "api/deletestudbyid/{student_id}")
+	 void deletestudent(@PathVariable int student_id) {
+		 manager.delstud(student_id);
+	 }
+
+
 }
 

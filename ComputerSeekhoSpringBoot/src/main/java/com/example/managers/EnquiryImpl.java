@@ -80,5 +80,19 @@ public class EnquiryImpl implements EnquiryService {
 		e.updatedata(enquiry.getEnquirer_name(),enquiry.getEnquirer_mobile(), enquiry.getEnquirer_email_id(), enquiry.getEnquirer_query(),enquiry.getClosure_reason(),enquiry.getFollowup_msg(),enquiry.isEnquiry_processed_flag(),enquiryId);
 	}
 
+	@Override
+	public void updateprocessflag(int id) {
+		e.changeflagbyid(id);
+		//e.changeflagbyid(flag,id);
+//Optional<Enquiry> enquiryOptional = e.findById(id);
+//        
+//        if (enquiryOptional.isPresent()) {
+//            Enquiry enquiry = enquiryOptional.get();
+//            enquiry.setEnquiry_processed_flag(true);
+////            System.err.println("hi");
+//		
+//	}
 
+
+	}
 }

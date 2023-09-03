@@ -20,6 +20,7 @@ public class Payment {
 	private double fees_paid;
 	private String payment_mode ;
 	private int student_id;
+	private double remaining_fees;
 	
 	public String getPayment_mode() {
 		return payment_mode;
@@ -96,6 +97,14 @@ public class Payment {
 
 	public void setPayment_type(String payment_mode) {
 		this.payment_mode = payment_mode;
+	}
+
+	public double getRemaining_fees() {
+		return remaining_fees;
+	}
+
+	public void setRemaining_fees(double remaining_fees) {
+		this.remaining_fees = remaining_fees;
 	}
 	
 	
