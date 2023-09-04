@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Form } from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
-import Map from './map'
+import Map from './map';
 
 function ContactUs() {
-  const [staffList, setStaffList] = useState([]);
-  const [currentStaffIndex, setCurrentStaffIndex] = useState(0);
+  const [staffIdList, setStaffIdList] = useState([]);
+  const [lastAssignedStaffIndex, setLastAssignedStaffIndex] = useState(-1);
   const [enquiryData, setEnquiryData] = useState({
     enquirer_name: '',
     enquirer_address: '',
@@ -19,8 +19,8 @@ function ContactUs() {
     enquiry_processed_flag: false,
     staff_id: null,
   });
+
   useEffect(() => {
-    // Fetch staff data when the component mounts
     fetchStaffData();
   }, []);
 
@@ -28,40 +28,49 @@ function ContactUs() {
     try {
       const response = await fetch("http://localhost:8080/api/staff"); // Replace with your API endpoint for staff data
       const staffData = await response.json();
-      // console.log(staffData);
-      setStaffList(staffData);
+
+      // Extract staff_id values into an array
+      const staffIds = staffData.map((staff) => staff.staff_id);
+      setStaffIdList(staffIds);
     } catch (error) {
       console.error('Error fetching staff data:', error);
     }
   };
 
-  const getNextStaff = () => {
-    const nextStaffIndex = (currentStaffIndex + 1) % staffList.length;
-    setCurrentStaffIndex(nextStaffIndex);
-    return staffList[nextStaffIndex];
+  const getNextStaffId = () => {
+    if (staffIdList.length === 0) {
+      console.error('No staff found');
+      return null;
+    }
+
+    // Increment the last assigned staff index (cycling through if needed)
+    const nextIndex = (lastAssignedStaffIndex + 1) % staffIdList.length;
+    setLastAssignedStaffIndex(nextIndex);
+
+    // Return the next staff_id
+    return staffIdList[nextIndex];
   };
 
   const handleEnquirySubmit = async (e) => {
     e.preventDefault();
 
-    const selectedStaff = getNextStaff();
-    // console.log('Selected Staff:', selectedStaff);
+    const nextStaffId = getNextStaffId();
 
-    if (!selectedStaff) {
+    if (!nextStaffId) {
       console.error('No staff found');
       return;
     }
 
     const enrichedEnquiryData = {
       ...enquiryData,
-      staff_id: selectedStaff.staff_id // Set the staff_id from the selected staff object
+      staff_id: nextStaffId, // Set the staff_id from the array
     };
 
     // console.log('Enquiry Data:', enrichedEnquiryData);
 
     // Set today's date to enquiry_date
-  const currentDate = new Date().toISOString().split('T')[0]; // Get today's date in 'YYYY-MM-DD' format
-  enrichedEnquiryData.enquiry_date = currentDate;
+    const currentDate = new Date().toISOString().split('T')[0]; // Get today's date in 'YYYY-MM-DD' format
+    enrichedEnquiryData.enquiry_date = currentDate;
 
 
     try {
@@ -76,9 +85,6 @@ function ContactUs() {
 
 
       if (response.ok) {
-        // Enquiry successfully stored
-        // console.log('Enquiry stored successfully');
-        // Clear the form fields
         setEnquiryData({
           enquirer_name: '',
           enquirer_address: '',
@@ -115,7 +121,7 @@ function ContactUs() {
               value={enquiryData.enquirer_name}
               onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_name: e.target.value })}
             />
-           
+
             <label>Mobile:</label>
             <input
               type="text"
@@ -128,19 +134,19 @@ function ContactUs() {
               value={enquiryData.enquirer_email_id}
               onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_email_id: e.target.value })}
             />
-        <input
-          type="date"
-          hidden
-          value={enquiryData.enquiry_date}
-          onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })}
-        />
-        <input
-          type="date"
-          hidden
-          value={enquiryData.follow_up_date}
-          onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })}
-        />
-       
+            <input
+              type="date"
+              hidden
+              value={enquiryData.enquiry_date}
+              onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })}
+            />
+            <input
+              type="date"
+              hidden
+              value={enquiryData.follow_up_date}
+              onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })}
+            />
+
             <label>Query:</label>
             <input
               type="text"
@@ -148,7 +154,7 @@ function ContactUs() {
               onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
             />
 
-            
+
             <Button variant="primary" type="submit" className="mt-3">
               Submit
             </Button>
@@ -163,7 +169,7 @@ function ContactUs() {
 
         {/* MAP */}
         <Col lg={6}>
-          <Map/>
+          <Map />
         </Col>
       </Row>
     </Container>

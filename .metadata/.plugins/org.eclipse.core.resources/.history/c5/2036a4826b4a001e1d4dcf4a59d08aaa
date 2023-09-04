@@ -1,0 +1,69 @@
+package com.example.entities;
+
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
+public class OfficeStaff {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int staff_id;
+	private String Officestaff_name;
+	private String Officestaff_mobile;
+	private String Officestaff_email;
+	private String Officestaff_username;
+	private String Officestaff_password;
+	private String Officestaff_role;
+	private boolean Officestaff_isactive = true;
+	
+	
+	public int getStaff_id() {
+		return staff_id;
+	}
+	public void setStaff_id(int staff_id) {
+		this.staff_id = staff_id;
+	}
+	public String getOfficestaff_name() {
+		return Officestaff_name;
+	}
+	public void setOfficestaff_name(String officestaff_name) {
+		Officestaff_name = officestaff_name;
+	}
+	public String getOfficestaff_mobile() {
+		return Officestaff_mobile;
+	}
+	public void setOfficestaff_mobile(String officestaff_mobile) {
+		Officestaff_mobile = officestaff_mobile;
+	}
+	public String getOfficestaff_email() {
+		return Officestaff_email;
+	}
+	public void setOfficestaff_email(String officestaff_email) {
+		Officestaff_email = officestaff_email;
+	}
+	public String getOfficestaff_username() {
+		return Officestaff_username;
+	}
+	public void setOfficestaff_username(String officestaff_username) {
+		Officestaff_username = officestaff_username;
+	}
+	public String getOfficestaff_password() {
+		return Officestaff_password;
+	}
+	public void setOfficestaff_password(String officestaff_password) {
+		Officestaff_password = officestaff_password;
+	}
+	public String getOfficestaff_role() {
+		return Officestaff_role;
+	}
+	public void setOfficestaff_role(String officestaff_role) {
+		Officestaff_role = officestaff_role;
+	}
+	public boolean isOfficestaff_isactive() {
+		return Officestaff_isactive;
+	}
+	public void setOfficestaff_isactive(boolean officestaff_isactive) {
+		Officestaff_isactive = officestaff_isactive;
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.example.entities.Enquiry;
+import com.example.entities.Staff;
+
+public interface OfficeStaffManager {
+
+	void addOfficeStaff(Staff s);
+
+	List<Staff> getOfficeStaff();
+
+	void delete(int id);
+
+	void updateStaffData(Staff s, int id);
+
+	Optional<Staff> getStaff(int id);
+
+	void inactive(boolean status, int id);
+
+	Optional<Staff> stafflogin(String name);
+
+	public List<Enquiry> getAllEnquiriesForStaff(int staffId);
+}

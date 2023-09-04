@@ -27,7 +27,9 @@ export function Course() {
         style={{ display: "block", margin: "0 auto" }}
       />
       <br />
+      <h4>Decription</h4>
       <div>{course.course_description}</div>
+      <h4>Syllabus</h4>
       <div>{course.course_syllabus}</div>
       <br />
       <Button

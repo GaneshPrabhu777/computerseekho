@@ -37,11 +37,11 @@ function StudentTable() {
       <Dashoption />
       <h2 style={{ textAlign: "center" }}>Student List</h2>
 
-      <a href={"/addstudent"}>
+      {/* <a href={"/addstudent"}>
         <Button variant="primary" style={{ marginLeft: "50px" }}>
           Add Student
         </Button>
-      </a>
+      </a> */}
       <div style={{ width: "20%", float: "right", marginRight: "20px" }}>
         <input
           type="text"

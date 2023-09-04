@@ -18,13 +18,13 @@ function CourseCreate(props) {
     }
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
     setCourse((values) => ({ ...values, course_is_active: isActive }));
 
     let demo = JSON.stringify(course);
 
-    fetch("http://localhost:8080/api/courses", {
+   await fetch("http://localhost:8080/api/courses", {
       method: "POST",
       headers: { "Content-type": "application/json" },
       body: demo,

@@ -70,6 +70,7 @@ function Call(props) {
 
             if (response.ok) {
                 alert("Enquiry Submitted Successfully !");
+                navigate("/followups")
             } else {
                 console.error('Failed to store enquiry');
             }

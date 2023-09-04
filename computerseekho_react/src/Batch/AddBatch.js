@@ -10,8 +10,9 @@ function AddBatchForm() {
     batch_end_time: "",
     final_presentation_date: "",
     batch_fees: "",
-      course_id:""
-    
+    course_id: "",
+    batch_capacity:""
+
   });
 
   const [courseOptions, setCourseOptions] = useState([]);
@@ -36,14 +37,14 @@ function AddBatchForm() {
   };
 
   const handleCourseChange = (e) => {
-    
+
     const selectedCourseId = e.target.value;
     console.log(selectedCourseId)
     setBatchData((prevData) => ({
       ...prevData,
-      
-        "course_id": selectedCourseId,
-      
+
+      "course_id": selectedCourseId,
+
     }));
   };
 
@@ -70,7 +71,7 @@ function AddBatchForm() {
         console.error("Error:", error);
       });
 
-    // navigate(-1);
+    navigate("/batch");
   };
 
   return (
@@ -139,6 +140,16 @@ function AddBatchForm() {
             type="number"
             name="batch_fees"
             value={batchData.batch_fees}
+            onChange={handleChange}
+            required
+          />
+        </div>
+        <div className="form-group">
+          <label>Batch Capacity:</label>
+          <input
+            type="number"
+            name="batch_capacity"
+            value={batchData.batch_capacity}
             onChange={handleChange}
             required
           />

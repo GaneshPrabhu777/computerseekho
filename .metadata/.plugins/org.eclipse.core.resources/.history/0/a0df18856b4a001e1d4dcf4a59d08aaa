@@ -1,0 +1,27 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.example.entities.Enquiry;
+import com.example.entities.OfficeStaff;
+
+@Service
+public interface OfficeStaffManager {
+
+	void addOfficeStaff(OfficeStaff s);
+
+	List<OfficeStaff> getOfficeStaff();
+
+	void updateStaffData(OfficeStaff s, int id);
+
+	Optional<OfficeStaff> getStaff(int id);
+
+	void inactive(boolean status, int id);
+
+	Optional<OfficeStaff> stafflogin(String name);
+
+	public List<Enquiry> getAllEnquiriesForStaff(int staffId);
+}

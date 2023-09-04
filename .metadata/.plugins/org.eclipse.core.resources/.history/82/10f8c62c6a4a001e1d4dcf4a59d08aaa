@@ -1,0 +1,24 @@
+package com.example.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import jakarta.transaction.Transactional;
+
+@Repository
+@Transactional
+public interface OfficeStaffRepository extends JpaRepository {
+
+	@Modifying
+	@Query(value = "UPDATE OfficeStaff o SET o.Officestaff_name = :name, " + "    Officestaff_mobile = :mobile, "
+			+ "    Officestaff_email = :email, " + "    Officestaff_username = :username, "
+			+ "    Officestaff_password = :password, " + "    Officestaff_role = :role, "
+			+ "    Officestaff_isactive = :isActive " + "WHERE staff_id = :staffId", nativeQuery = true)
+	void updateOfficeStaff(@Param("name") String name, @Param("mobile") String mobile, @Param("email") String email,
+			@Param("username") String username, @Param("password") String password, @Param("role") String role,
+			@Param("isActive") boolean isActive, @Param("staffId") int staffId);
+
+}

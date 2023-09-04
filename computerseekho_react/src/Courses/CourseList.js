@@ -51,21 +51,13 @@ function CourseList(props) {
                       <td>{courses.course_syllabus}</td>
                       <td>{courses.age_grp_type}</td>
                       <td>{courses.cover_photo}</td>
-                      {/* <td>
-                        <a href={"/course/" + course.course_id}>
-                          <Button variant="primary">Display</Button>
-                        </a>
-                      </td> */}
+                     
                       <td>
-                        <a href={"/courseedit/" + course.course_id}>
+                        <a href={"/coursesedit/" + courses.course_id}>
                           <Button variant="secondary">Edit</Button>
                         </a>
                       </td>
-                      {/* <td>
-                        <a href={"/coursedel/" + course.course_id}>
-                          <Button variant="danger">Delete</Button>
-                        </a>
-                      </td> */}
+                      
                     </tr>
                   ))}
                 </tbody>

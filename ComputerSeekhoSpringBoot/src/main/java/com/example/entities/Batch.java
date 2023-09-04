@@ -31,13 +31,7 @@ public class Batch {
 	@Column(name = "batch_start_time", nullable = false)
 	private Date batch_start_time;
 	
-	public int getCourse_id() {
-		return course_id;
-	}
-
-	public void setCourse_id(int course_id) {
-		this.course_id = course_id;
-	}
+	
 
 	@Column(name = "batch_end_time", nullable = false)
 	private Date batch_end_time; 
@@ -49,17 +43,24 @@ public class Batch {
 	@Column(name = "batch_fees", nullable = false, columnDefinition = "DECIMAL(10,2)")
 	private float batch_fees;
 	
-//	@OneToMany(cascade = CascadeType.ALL)
-//	@JoinColumn(name = "batch_id", referencedColumnName = "batch_id")
-//	private Set<Student> student;
+
 	@Column(name="course_id")
 	private int course_id;
+	private int batch_capacity;
 	
 
 	/**
 	 * @return the batch_id
 	 */
 
+
+	public int getBatch_capacity() {
+		return batch_capacity;
+	}
+
+	public void setBatch_capacity(int batch_capacity) {
+		this.batch_capacity = batch_capacity;
+	}
 
 	/**
 	 * @return the batch_name
@@ -71,7 +72,13 @@ public class Batch {
 	public int getBatch_id() {
 		return batch_id;
 	}
+public int getCourse_id() {
+		return course_id;
+	}
 
+	public void setCourse_id(int course_id) {
+		this.course_id = course_id;
+	}
 	public void setBatch_id(int batch_id) {
 		this.batch_id = batch_id;
 	}

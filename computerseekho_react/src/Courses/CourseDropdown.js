@@ -21,12 +21,7 @@ export function CourseDropdown(props) {
 
         </NavDropdown>
 
-        {/* <Dropdown.Menu style={{color:"black" , backgroundColor:"white",border:"none"}}>
-
-          {course.map((courses) => (
-            <Dropdown.Item href={"/courses/" + courses.course_id}><p>{courses.course_name}</p></Dropdown.Item>
-          ))}
-        </Dropdown.Menu> */}
+    
       
     </div>
   );

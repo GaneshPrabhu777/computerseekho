@@ -41,6 +41,7 @@ import PaymentForm from './Student/Paymennt';
 import PayEdit from './Payment/PayEdit';
 import NewPayment from './Payment/NewPayment';
 import Receipt from './Payment/Receipt';
+import AddStudentForm from './Student/AddStudentForm';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -56,7 +57,6 @@ root.render(
           <Route path="About" element={<AboutUs />} />
           <Route path="Placement" element={<GetPlacement />} />
           <Route path="gallery" element={<Gallery />} />
-
 
           <Route path="Stafflogin" element={<StaffLogin />} />
           <Route path="adminlogin" element={<AdminLogin />} />
@@ -77,12 +77,12 @@ root.render(
           <Route path="admstudlist" element={<AdminStudlist />} />
 
           <Route path="studentedit/:id" element={<EditStudentForm />} />
-          <Route path="addstudent" element={<StudentRegistrationForm />} />
+          <Route path="/addstudent" element={<AddStudentForm />} />
           <Route path="call/:id" element={<Call />} />
           
           <Route path="courselist" element={<CourseList />} />
           <Route path="courses/:id" element={<Course />} />
-          <Route path="coursesedit/:id" element={<CourseEdit />} />
+          <Route path="coursesedit/:course_id" element={<CourseEdit />} />
           <Route path="coursesdel/:id" element={<CourseDelete />} />
           <Route path="coursecreate" element={<CourseCreate />} />
           

@@ -12,7 +12,7 @@ function Dashoption() {
             <Button color="primary" size="sm" tag={Link} to="/followups">Followups</Button>
             <Button color="primary" size="sm" tag={Link} to="/addenq">Add Enquiry</Button>
             <Button color="primary" size="sm" tag={Link} to="/allenq">All Enquiry</Button>
-            <Button color="primary" size="sm" tag={Link} to="/newreg">New Student</Button>
+            {/* <Button color="primary" size="sm" tag={Link} to="/addstudent">New Student</Button> */}
             <Button color="primary" size="sm" tag={Link} to="/studlist">Student List</Button>
             <Button color="primary" size="sm" tag={Link} to="/placerecord">Placement</Button>
             <Button color="primary" size="sm" tag={Link} to="/batch">Batch</Button>

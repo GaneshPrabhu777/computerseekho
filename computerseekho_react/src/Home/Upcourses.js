@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from "react";
-import {  Col } from "react-bootstrap";
+import { Col } from "react-bootstrap";
 import Table from "react-bootstrap/Table";
 
-// import 'react-bootstrap'
 function Upcourses() {
-
   const [upcomingBatches, setUpcomingBatches] = useState([]);
 
   useEffect(() => {
@@ -12,7 +10,14 @@ function Upcourses() {
     fetch("http://localhost:8080/api/batch")
       .then((response) => response.json())
       .then((data) => {
-        setUpcomingBatches(data);
+        // Filter batches with start dates in the future
+        const currentDate = new Date();
+        const upcomingBatches = data.filter((batch) => {
+          const startDate = new Date(batch.batch_start_time);
+          return startDate > currentDate;
+        });
+
+        setUpcomingBatches(upcomingBatches);
       })
       .catch((error) => {
         console.error("Error fetching data:", error);
@@ -26,8 +31,6 @@ function Upcourses() {
 
   return (
     <div>
-      <h2>Upcoming Batches</h2>
-      <br />
       <br />
       <br />
       <Col md="11" style={{ marginLeft: "40px" }}>
@@ -57,16 +60,15 @@ function Upcourses() {
         </Table>
       </Col>
 
-      <div style={{ textAlign: 'center', marginTop: '20px' }}>
-        <a href="Contactus" >
-      <button>Enquiry</button>
-      </a></div>
-    <br/>
-    <br/>
-
+      <div style={{ textAlign: "center", marginTop: "20px" }}>
+        <a href="Contactus">
+          <button>Enquiry</button>
+        </a>
+      </div>
+      <br />
+      <br />
     </div>
-
-  )
+  );
 }
 
-export default Upcourses
+export default Upcourses;

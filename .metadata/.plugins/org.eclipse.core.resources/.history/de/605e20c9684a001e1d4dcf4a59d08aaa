@@ -1,0 +1,61 @@
+package com.example.managers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.entities.Enquiry;
+import com.example.entities.OfficeStaff;
+import com.example.repositories.OfficeStaffRepository;
+
+@RestController
+@CrossOrigin("*")
+public class OfficeStaffManagerImp implements OfficeStaffManager{
+
+	private OfficeStaffRepository osrep;
+	
+	@Override
+	public void addOfficeStaff(OfficeStaff s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<OfficeStaff> getOfficeStaff() {
+		// TODO Auto-generated method stub
+		return osrep.findAll();
+	}
+
+	@Override
+	public void updateStaffData(OfficeStaff s, int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Optional<OfficeStaff> getStaff(int id) {
+		// TODO Auto-generated method stub
+		return osrep.findById(id);
+	}
+
+	@Override
+	public void inactive(boolean status, int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Optional<OfficeStaff> stafflogin(String name) {
+		// TODO Auto-generated method stub
+		return Optional.empty();
+	}
+
+	@Override
+	public List<Enquiry> getAllEnquiriesForStaff(int staffId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
