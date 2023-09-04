@@ -36,12 +36,6 @@ function StudentTable() {
     <div >
       <Dashoption />
       <h2 style={{ textAlign: "center" }}>Student List</h2>
-
-      {/* <a href={"/addstudent"}>
-        <Button variant="primary" style={{ marginLeft: "50px" }}>
-          Add Student
-        </Button>
-      </a> */}
       <div style={{ width: "20%", float: "right", marginRight: "20px" }}>
         <input
           type="text"

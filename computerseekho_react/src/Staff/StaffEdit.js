@@ -37,28 +37,31 @@ function StaffEdit() {
     };
 
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', marginBottom:"10px",marginTop:"10px" }}>
             <form onSubmit={handleSubmit} style={{ width: '400px', padding: '20px', border: '1px solid #ccc', borderRadius: '5px', boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)' }}>
                 <h3 align="center">Edit Staff</h3>
                 <br />
                 <label>ID:</label>
                 <input type="number" name="id" disabled value={staff.staff_id || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
                 <label>Name: </label>
                 <input type="text" name="staff_name" value={staff.staff_name || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
                 <label>Mobile:</label>
                 <input type="text" name="staff_mobile" value={staff.staff_mobile || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
                 <label>Email:</label>
                 <input type="text" name="staff_email" value={staff.staff_email || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
+                <label>Photo:</label>
+                <input type="text" name="photo_url" value={staff.photo_url || ""} onChange={handleChange} />
+                <br />
                 <label>Username:</label>
                 <input type="text" name="staff_username" value={staff.staff_username || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
                 <label>Password:</label>
                 <input type="text" name="staff_password" value={staff.staff_password || ""} onChange={handleChange} />
-                <br /><br />
+                <br />
                 <label>Role:</label>
                 <select name="staff_role" value={staff.staff_role || ""} onChange={handleChange}>
                     <option value="Teacher">Teacher</option>
@@ -66,17 +69,17 @@ function StaffEdit() {
                     <option value="Housekeeping">Housekeeping</option>
                     <option value="Admin">Admin</option>
                 </select>
-                <br /><br />
+                <br />
                 <label>Is Active:</label>
                 <select name="staff_isactive" value={staff.staff_isactive} onChange={handleChange}>
                     <option value={true}>Yes</option>
                     <option value={false}>No</option>
                 </select>
-                <br /><br />
-                <button type="submit">Save</button>
+                <br />
+                <button type="submit" style={{marginTop:"10px"}}>Save</button>
             </form>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <br /><br /><br /><br /><br />
+            <br /><br /><br /><br /><br />
         </div>
     );
 }

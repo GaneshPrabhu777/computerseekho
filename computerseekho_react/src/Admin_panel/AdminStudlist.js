@@ -80,6 +80,11 @@ function AdminStudlist() {
                                     <Button variant="secondary">Edit</Button>
                                 </a>
                             </td>
+                            <td>
+                                <a href={"/pay/" + student.student_id}>
+                                    <Button variant="secondary">Fees</Button>
+                                </a>
+                            </td>
                         </tr>
                     ))}
                 </tbody>

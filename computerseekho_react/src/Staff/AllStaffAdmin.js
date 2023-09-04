@@ -32,6 +32,7 @@ function AllStaffAdmin(props) {
                                 <thead>
                                     <tr>
                                         <th>Id</th>
+                                        <th>Photo</th>
                                         <th>Name</th>
                                         <th>Mobile</th>
                                         <th>Email</th>
@@ -46,13 +47,23 @@ function AllStaffAdmin(props) {
                                     {staff.map((Staffs) => (
                                         <tr key={Staffs.staff_id}>
                                             <td>{Staffs.staff_id}</td>
+                                            <td>
+                                                <img
+                                                    src={Staffs.photo_url}
+                                                    alt={`Photo of ${Staffs.staff_name}`}
+                                                    style={{ height: "100px" }}
+                                                />
+                                            </td>
                                             <td>{Staffs.staff_name}</td>
                                             <td>{Staffs.staff_mobile}</td>
                                             <td>{Staffs.staff_email}</td>
                                             <td>{Staffs.staff_username}</td>
                                             <td>{Staffs.staff_password}</td>
                                             <td>{Staffs.staff_role}</td>
-                                            <td>{Staffs.staff_isactive ? "Yes" : "No"}</td> {/* Show "Yes" if active, otherwise "No" */}
+                                            <td style={{ backgroundColor: Staffs.staff_isactive ? "lightgreen" : "red" }}>
+                                                {Staffs.staff_isactive ? "Active" : "Inactive"}
+                                            </td>
+
                                             <td>
                                                 <a href={"/staff/" + Staffs.staff_id}>
                                                     <Button variant="secondary">Edit</Button>

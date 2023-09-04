@@ -30,7 +30,7 @@ public class PlacementmanageriImpl implements PlacementManager
 	@Override
 	public void updatePlacement(Placement p, int id) {
 		// TODO Auto-generated method stub
-		repository.update(p.getCoursename(),p.getBatchid(), p.getPlacedstudents(),p.getTotal_student(), p.getPlacemetid());
+		repository.update(p.getCoursename(),p.getBatch_name(), p.getPlacedstudents(),p.getTotal_student(), p.getPlacemetid());
 	}
 
 	@Override

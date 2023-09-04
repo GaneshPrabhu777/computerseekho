@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useParams, Link } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 
 
 function PaymentForm() {
@@ -83,7 +83,7 @@ function PaymentForm() {
 
         if (updateEnquiryResponse.ok) {
           console.log('Enquiry closed successfully');
-          navigate("/allenq/")
+          navigate("/studlist")
         } else {
           console.error('Error updating enquiry status');
         }
@@ -103,13 +103,14 @@ function PaymentForm() {
       method: 'DELETE',
     });
     console.log("cancel payment")
+    navigate("/allenq")
   };
 
   return (
     <div>
       {console.log(payment)}
-      <h2>Payment Form</h2>
-      <form onSubmit={handleSubmit}>
+      <h2 style={{textAlign:"center"}}>Payment Form</h2>
+      <form onSubmit={handleSubmit} style={{margin:"100px"}}>
         {/* Display student and payment related fields */}
         <div>
           <label>Student ID:</label>
@@ -171,12 +172,14 @@ function PaymentForm() {
             required
           />
         </div>
-        {/* Other payment fields */}
+        <br />
         <button type="submit">Pay Now</button>
+        <br />
+        <br />
+        <button onClick={handleCancelPay}>Cancel Payment</button>
       </form>
-
-      <button onClick={handleCancelPay}>Cancel Payment</button>
-
+      <br />
+      <br />
     </div>
   );
 }

@@ -47,7 +47,7 @@ function PaymentEdit() {
         <input type="text"
           value={paymentData[0]?.batch_fees - totalFees}
           readOnly
-          className={paymentData[0]?.batch_fees - totalFees > 0 ? 'green-text' : 'red-text'} />
+          className={paymentData[0]?.batch_fees - totalFees > 0 ? 'red-text' : 'green-text'} />
       </div>
       <br />
       <table className="payment-table">

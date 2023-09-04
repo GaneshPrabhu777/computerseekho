@@ -6,12 +6,15 @@ function NewPayment() {
   const { student_id, batch_fees } = useParams();
   const navigate = useNavigate();
 
+  // Define the current date in the format "YYYY-MM-DD"
+  const currentDate = new Date().toISOString().split('T')[0];
+
   // Define state variables for form input values
   const [payment, setPayment] = useState({
     student_id: student_id,
     batch_fees: batch_fees,
     fees_paid: '',
-    payment_date: '',
+    payment_date: currentDate, // Use the current date as the default value
     payment_mode: '',
     payment_transaction_id: '',
   });

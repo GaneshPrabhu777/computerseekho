@@ -8,7 +8,7 @@ function Footer() {
         <div className="row">
           <div className="col-md-4">
             <h2 className="footer-heading">Computer Seekho</h2>
-            <p className="footer-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p className="footer-text"></p>
             <div className="footer-social-icons">
               <a href="#"><i className="fa fa-facebook-square"></i></a>
               <a href="#"><i className="fa fa-linkedin-square"></i></a>

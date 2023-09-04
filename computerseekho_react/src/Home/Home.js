@@ -1,8 +1,6 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Upcourses from './Upcourses';
-import Header from '../Header';
-import Footer from '../Footer';
 
 function Home() {
     return (
@@ -18,13 +16,20 @@ function Home() {
                     </div>
                 </div>
             </div>
+
+
             <div className="container">
+                <div className="blinking-line text-center">
+                    <div>Special Offer for Early Admissions</div>
+                </div>
                 <div className="row mt-5">
+
                     <div className="col-md-12 text-center">
-                        <h2>Batch Schedule</h2>
+                        <h2>Upcoming Batch Schedule</h2>
                     </div>
                 </div>
                 <Upcourses />
+
             </div>
         </>
 

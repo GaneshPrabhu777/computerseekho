@@ -30,11 +30,11 @@ public class Course {
 	
 	private String age_grp_type;
 	
-	private boolean course_is_active;
+	private boolean course_is_active=true;
 	
 	private String cover_photo;
 	
-	private int video_id;
+	private String video_link;
 
 //	private Set<Batch> batches;
 //	@OneToMany(cascade = CascadeType.ALL)
@@ -156,15 +156,15 @@ public class Course {
 	/**
 	 * @return the video_id
 	 */
-	public int getVideo_id() {
-		return video_id;
+	public String getvideo_link() {
+		return video_link;
 	}
 
 	/**
 	 * @param video_id the video_id to set
 	 */
-	public void setVideo_id(int video_id) {
-		this.video_id = video_id;
+	public void setvideo_link(String video_id) {
+		this.video_link = video_id;
 	}
 
 //	public Set<Batch> getBatches() {
@@ -179,7 +179,7 @@ public class Course {
 		return "Course [course_id=" + course_id + ", course_name=" + course_name + ", course_description="
 				+ course_description + ", course_duration=" + course_duration + ", course_syllabus=" + course_syllabus
 				+ ", age_grp_type=" + age_grp_type + ", course_is_active=" + course_is_active + ", cover_photo="
-				+ cover_photo + ", video_id=" + video_id + "]";
+				+ cover_photo + ", video_link=" + video_link + "]";
 	}
 	
 	

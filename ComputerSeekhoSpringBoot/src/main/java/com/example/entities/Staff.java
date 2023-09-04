@@ -16,7 +16,7 @@ public class Staff {
 	private int staff_id;
 	
 	private String staff_name;
-	private String photo_url;
+	private String photo_url="https://ajcacollege.in/wp-content/uploads/icon.jpg";
 	private String staff_mobile;
 	private String staff_email;
 	private String staff_username;

@@ -85,6 +85,7 @@ function ContactUs() {
 
 
       if (response.ok) {
+        alert("Enquiry Submitted")
         setEnquiryData({
           enquirer_name: '',
           enquirer_address: '',
@@ -114,56 +115,61 @@ function ContactUs() {
       <Row className="mt-4">
         <Col lg={6}>
           <h2 align="center">Enquiry Form</h2>
-          <Form onSubmit={handleEnquirySubmit}>
-            <label>Name:</label>
-            <input
-              type="text"
-              value={enquiryData.enquirer_name}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_name: e.target.value })}
-            />
+          <Form onSubmit={handleEnquirySubmit} style={{ maxWidth: '400px', margin: '0 auto' }}>
+            <div style={{ marginBottom: '10px' }}>
+              <label>Name:</label>
+              <input
+                type="text"
+                value={enquiryData.enquirer_name}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_name: e.target.value })}
+                style={{ width: '100%', padding: '5px' }}
+              />
+            </div>
 
-            <label>Mobile:</label>
-            <input
-              type="text"
-              value={enquiryData.enquirer_mobile}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_mobile: e.target.value })}
-            />
-            <label>Email:</label>
-            <input
-              type="text"
-              value={enquiryData.enquirer_email_id}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_email_id: e.target.value })}
-            />
-            <input
-              type="date"
-              hidden
-              value={enquiryData.enquiry_date}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })}
-            />
-            <input
-              type="date"
-              hidden
-              value={enquiryData.follow_up_date}
-              onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })}
-            />
+            <div style={{ marginBottom: '10px' }}>
+              <label>Mobile:</label>
+              <input
+                type="text"
+                value={enquiryData.enquirer_mobile}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_mobile: e.target.value })}
+                style={{ width: '100%', padding: '5px' }}
+              />
+            </div>
 
-            <label>Query:</label>
-            <input
-              type="text"
-              value={enquiryData.enquirer_query}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
-            />
+            <div style={{ marginBottom: '10px' }}>
+              <label>Email:</label>
+              <input
+                type="text"
+                value={enquiryData.enquirer_email_id}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_email_id: e.target.value })}
+                style={{ width: '100%', padding: '5px' }}
+              />
+            </div>
 
+            <input type="date" hidden value={enquiryData.enquiry_date} onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })} />
+            <input type="date" hidden value={enquiryData.follow_up_date} onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })} />
 
-            <Button variant="primary" type="submit" className="mt-3">
+            <div style={{ marginBottom: '10px' }}>
+              <label>Query:</label>
+              <input
+                type="text"
+                value={enquiryData.enquirer_query}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
+                style={{ width: '100%', padding: '5px' }}
+              />
+            </div>
+
+            <Button variant="primary" type="submit" className="mt-3" style={{ width: '100%', padding: '10px' }}>
               Submit
             </Button>
+
             <br />
             <br />
             <br />
             <br />
             <br />
           </Form>
+
         </Col>
 
 

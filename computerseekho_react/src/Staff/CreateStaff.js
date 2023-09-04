@@ -49,11 +49,16 @@ function CreateStaff(props) {
           <div className="form-group">
             <label>Role:</label>
             <select name="staff_role" onChange={handleChange}>
+              <option value="">Select staff</option>
               <option value="Teacher">Teacher</option>
               <option value="Office_Staff">Office-Staff</option>
               <option value="Housekeeping">Housekeeping</option>
               <option value="Admin">Admin</option>
             </select>
+          </div>
+          <div className="form-group">
+            <label>Photo URL:</label>
+            <input type="text" name="photo_url" onChange={handleChange} />
           </div>
           <div className="form-group">
             <label>Username:</label>

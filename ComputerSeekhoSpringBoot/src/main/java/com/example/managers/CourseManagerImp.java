@@ -37,7 +37,8 @@ public class CourseManagerImp implements CourseManager {
 	@Override
 	public void update(Course course, int id) {
 		// TODO Auto-generated method stub
-		repository.update(course.getCourse_name(),course.getCourse_description(),course.getCourse_duration(),course.getCourse_syllabus(),course.getAge_grp_type(),course.isCourse_is_active(),course.getCover_photo(),course.getVideo_id(),id);
+		repository.update(course.getCourse_name(),course.getCourse_description(),course.getCourse_duration(),
+				course.getCourse_syllabus(),course.getAge_grp_type(),course.isCourse_is_active(),course.getCover_photo(),course.getvideo_link(),id);
 	
 	}
 

@@ -89,7 +89,7 @@ root.render(
           <Route path="showstaff" element={<AllStaffAdmin />} />
           <Route path="addstaff" element={<CreateStaff />} />
           <Route path="staff/:id" element={<StaffEdit />} />
-          <Route path="/payment/:enquiry_id/:selectedBatchId" element={<PaymentForm/>} />
+          <Route path="payment/:enquiry_id/:selectedBatchId" element={<PaymentForm/>} />
           <Route path="pay/:student_id" element={<PayEdit/>} />
           <Route path="newpay/:student_id/:batch_fees" element={<NewPayment/>} />
           <Route path="rec/:student_id" element={<Receipt/>} />

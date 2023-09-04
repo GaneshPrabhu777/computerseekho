@@ -24,16 +24,17 @@ function CourseEdit() {
       value = value === "yes"; // Convert "yes" to true, "no" to false
     }
 
-    setCourse((prevCourse) => ({ ...prevCourse, course_is_active: value }));
+    // Update the course state with the new value
+    setCourse((prevCourse) => ({ ...prevCourse, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
     const updatedCourse = { ...course };
     delete updatedCourse.id; // Remove the id property, assuming it's not needed in the update
     const demo = JSON.stringify(updatedCourse);
 
-    fetch("http://localhost:8080/api/courses/" + course_id, {
+    await fetch("http://localhost:8080/api/courses/" + course_id, {
       method: "PUT",
       headers: { "Content-type": "application/json" },
       body: demo,
@@ -41,6 +42,7 @@ function CourseEdit() {
       .then((response) => {
         if (response.ok) {
           console.log("Course updated successfully");
+          setTimeout(1000)
           navigate("/courselist");
         } else {
           console.error("Failed to update course");
@@ -122,28 +124,47 @@ function CourseEdit() {
           />
         </div>
         <div className="form-group">
-          <label>Course Status:</label>
-          <label>
-            <input
-              type="radio"
-              name="course_is_active"
-              value="true"
-              checked={course.course_is_active === true}
-              onChange={handleChange}
-            />
-            Yes
-          </label>
-          <label>
-            <input
-              type="radio"
-              name="course_is_active"
-              value="false"
-              checked={course.course_is_active === false}
-              onChange={handleChange}
-            />
-            No
-          </label>
+          <label>Photo Link:</label>
+          <input
+            type="text"
+            name="cover_photo"
+            value={course.cover_photo || ""}
+            onChange={handleChange}
+            className="form-control"
+          />
         </div>
+        <div className="form-group">
+          <label>Course Status:</label>
+          <table>
+            <tr>
+              <td>
+                <label>
+                  <input
+                    type="radio"
+                    name="course_is_active"
+                    value="true"
+                    checked={course.course_is_active === true}
+                    onChange={handleChange}
+                  />
+                  Active
+                </label>
+              </td>
+              <td>
+                <label>
+                  <input
+                    type="radio"
+                    name="course_is_active"
+                    value="false"
+                    checked={course.course_is_active === false}
+                    onChange={handleChange}
+                  />
+                  Inactive
+                </label>
+              </td>
+            </tr>
+          </table>
+        </div>
+
         <div className="form-group">
           <input type="submit" className="btn btn-primary" value="Save" />
         </div>

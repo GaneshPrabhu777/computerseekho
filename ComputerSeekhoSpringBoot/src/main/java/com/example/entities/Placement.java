@@ -13,13 +13,15 @@ public class Placement {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int placemetid;
 	private String coursename;
-	private int batchid;
+//	private int batchid;
+	private String batch_name;
+
 	private int total_student;
 	private int placedstudents;
 
 	@Override
 	public String toString() {
-		return "Placement [placemetid=" + placemetid + ", coursename=" + coursename + ", batchid=" + batchid
+		return "Placement [placemetid=" + placemetid + ", coursename=" + coursename 
 				+ ", total_student=" + total_student + ", placedstudents=" + placedstudents + "]";
 	}
 
@@ -47,13 +49,21 @@ public class Placement {
 		this.coursename = coursename;
 	}
 
-	public int getBatchid() {
-		return batchid;
+	public String getBatch_name() {
+		return batch_name;
 	}
 
-	public void setBatchid(int batchid) {
-		this.batchid = batchid;
+	public void setBatch_name(String batch_name) {
+		this.batch_name = batch_name;
 	}
+
+//	public int getBatchid() {
+//		return batchid;
+//	}
+//
+//	public void setBatchid(int batchid) {
+//		this.batchid = batchid;
+//	}
 
 	public int getPlacedstudents() {
 		return placedstudents;

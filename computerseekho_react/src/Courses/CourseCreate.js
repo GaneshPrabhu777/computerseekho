@@ -24,22 +24,22 @@ function CourseCreate(props) {
 
     let demo = JSON.stringify(course);
 
-   await fetch("http://localhost:8080/api/courses", {
+    await fetch("http://localhost:8080/api/courses", {
       method: "POST",
       headers: { "Content-type": "application/json" },
       body: demo,
     })
-alert("Course added successfully")
+    alert("Course added successfully")
     navigate("/courselist");
   };
 
   return (
     <Container>
-      
+
       <Row className="justify-content-center">
         <Col md={6}>
-           <h3 align="center">Add Course</h3>
-        <br/><br/>
+          <h3 align="center">Add Course</h3>
+          <br /><br />
           <Form onSubmit={handleSubmit}>
             <Form.Group>
               <Form.Label>Id:</Form.Label>
@@ -62,34 +62,39 @@ alert("Course added successfully")
               <Form.Control type="text" name="course_syllabus" onChange={handleChange} />
             </Form.Group>
             <Form.Group>
+              <Form.Label>Photo link:</Form.Label>
+              <Form.Control type="text" name="cover_photo" onChange={handleChange} />
+            </Form.Group>
+            <Form.Group>
               <Form.Label>Age Group:</Form.Label>
-              <Form.Control as="select" name="age_grp_type"  onChange={handleChange}>
+              <Form.Control as="select" name="age_grp_type" onChange={handleChange}>
                 <option value="child">Child</option>
                 <option value="teen">Teen</option>
                 <option value="adult">Adult</option>
               </Form.Control>
             </Form.Group>
-            <Form.Group>
+            {/* <Form.Group>
               <Form.Label>Course Status:</Form.Label>
               <Form.Check
                 type="radio"
                 label="Active"
                 name="course_is_active"
-                value="true"
+                value="true" // This sets course_is_active to "true" when "Active" is selected
                 onChange={handleChange}
               />
               <Form.Check
                 type="radio"
                 label="Inactive"
                 name="course_is_active"
-                value="false"
+                value="false" // This sets course_is_active to "false" when "Inactive" is selected
                 onChange={handleChange}
               />
-            </Form.Group>
-            <br/><br/>
+            </Form.Group> */}
+
+            <br /><br />
             <Button type="submit">Submit</Button>
           </Form>
-          <br/><br/><br/><br/>
+          <br /><br /><br /><br />
         </Col>
       </Row>
     </Container>

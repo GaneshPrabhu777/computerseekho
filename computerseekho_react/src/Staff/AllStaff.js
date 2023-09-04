@@ -1,10 +1,9 @@
-import React from "react";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Button, Table } from "react-bootstrap";
 import { Container, Row, Col } from "reactstrap";
 import Dashoption from "../Login/dashoption";
 
-export function AllStaff(props) {
+function AllStaff(props) {
   const [staffs, setStaffs] = useState([]);
 
   useEffect(() => {
@@ -12,7 +11,6 @@ export function AllStaff(props) {
       .then((res) => res.json())
       .then((result) => {
         setStaffs(result);
-
       });
   }, []);
 
@@ -20,8 +18,6 @@ export function AllStaff(props) {
     <>
       <Container fluid>
         <Row>
-
-
           <Dashoption />
 
           <Col md="11">
@@ -33,33 +29,38 @@ export function AllStaff(props) {
                 <thead>
                   <tr>
                     <th>Id</th>
-                    {/* <th>Photo</th> */}
+                    <th>Photo</th>
                     <th>Name</th>
                     <th>Mobile</th>
                     <th>Role</th>
-                    <th>email</th>
+                    <th>Email</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {staffs.map((staffs) => (
-                    <tr key={staffs.staff_id}>
-                      <td>{staffs.staff_id}</td>
-                      {/* <td><img src={staffs.staff_photo} width={100} height={100} alt="Staff Photo" /></td> */}
-                      <td>{staffs.staff_name}</td>
-                      <td>{staffs.staff_mobile}</td>
-                      <td>{staffs.staff_role}</td>
-                      <td>{staffs.staff_email}</td>
-
+                  {staffs.map((staff) => (
+                    <tr key={staff.staff_id}>
+                      <td>{staff.staff_id}</td>
+                      <td>
+                        <img
+                          src={staff.photo_url}
+                          alt={`Photo of ${staff.staff_name}`}
+                          style={{ height: "100px" }}
+                        />
+                      </td>
+                      <td>{staff.staff_name}</td>
+                      <td>{staff.staff_mobile}</td>
+                      <td>{staff.staff_role}</td>
+                      <td>{staff.staff_email}</td>
                     </tr>
                   ))}
                 </tbody>
               </Table>
             </div>
-
           </Col>
         </Row>
       </Container>
     </>
-
   );
-} export default AllStaff;
+}
+
+export default AllStaff;

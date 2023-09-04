@@ -1,46 +1,67 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate, useParams } from "react-router-dom";
-import Button from "react-bootstrap/Button";
-// import BatchList from "../Batch/BatchList";
+import { useParams } from "react-router-dom";
 
-export function Course() {
-  const navigate = useNavigate();
+function Course() {
   const [course, setCourse] = useState({});
   const { id } = useParams();
 
   useEffect(() => {
-    fetch("http://localhost:8080/api/CourseById/" + id)
+    fetch(`http://localhost:8080/api/CourseById/${id}`)
       .then((res) => res.json())
       .then((result) => {
         setCourse(result);
       });
-  }, []);
+  }, [id]); // Include id as a dependency to fetch data when the id parameter changes.
 
   return (
     <div style={{ padding: "20px", textAlign: "center" }}>
       <h1>{course.course_name}</h1>
-      <img
-        src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
-        alt=""
-        width="1500"
-        height="500"
-        style={{ display: "block", margin: "0 auto" }}
-      />
-      <br />
-      <h4>Decription</h4>
-      <div>{course.course_description}</div>
-      <h4>Syllabus</h4>
-      <div>{course.course_syllabus}</div>
-      <br />
-      <Button
-        variant="primary"
-        onClick={() => {
-          navigate(-1);
-        }}
-      >
-        Back
-      </Button>
 
+      <br />
+      <br />
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <h4>Description</h4>
+              <div style={{ textAlign: "left" }}>{course.course_description}</div>
+            </td>
+            <td>
+              <img
+                src={course.cover_photo}
+                alt="course"
+                width="50%"
+                height="auto"
+                style={{ display: "block", margin: "0 auto" }}
+              />
+            </td>
+          </tr>
+          <tr>
+            <td style={{ width: "30%", marginTop:"100px" }}>
+              <h4>Syllabus</h4>
+              <div>{course.course_syllabus}</div>
+            </td>
+            <td style={{marginTop:"10px" }}>
+              <iframe
+                src={course.video_link}
+                title="Course Video"
+                width="600px"
+                height="400px"
+                allowFullScreen
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <br />
+      <br />
+
+      <div style={{ textAlign: "center", marginTop: "20px" }}>
+        <a href="/Contactus">
+          <button>Enquiry</button>
+        </a>
+      </div>
     </div>
   );
 }

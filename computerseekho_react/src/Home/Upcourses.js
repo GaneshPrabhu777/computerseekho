@@ -35,13 +35,14 @@ function Upcourses() {
       <br />
       <Col md="11" style={{ marginLeft: "40px" }}>
         <Table striped bordered hover responsive>
-          <thead>
+          <thead >
             <tr>
               <th>Batch ID</th>
               <th>Batch Name</th>
               <th>Start Time</th>
               <th>End Time</th>
               <th>Final Presentation Date</th>
+              <th>Total Seats</th>
               <th>Fee</th>
             </tr>
           </thead>
@@ -53,6 +54,7 @@ function Upcourses() {
                 <td>{formatDate(batch.batch_start_time)}</td>
                 <td>{formatDate(batch.batch_end_time)}</td>
                 <td>{formatDate(batch.final_presentation_date)}</td>
+                <td>{batch.batch_capacity}</td>
                 <td>{batch.batch_fees}</td>
               </tr>
             ))}

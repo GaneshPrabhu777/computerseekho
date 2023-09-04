@@ -17,6 +17,6 @@ public interface PlacementRepository extends JpaRepository<Placement,Integer>{
 	Student getStudent(@Param("phonenumber")String phonenumber);*/
 	
 	@Modifying
-    @Query(value="UPDATE placement p SET p.coursename = :course, p.batchid = :batch, p.placedstudents = :pst, p.total_student = :tst WHERE p.placemetid = :id",nativeQuery=true)
-    void update(@Param("course") String course, @Param("batch") int batch, @Param("pst") int pst, @Param("tst") int tst, @Param("id") int id);}
+    @Query(value="UPDATE placement p SET p.coursename = :course, p.batch_name = :batch, p.placedstudents = :pst, p.total_student = :tst WHERE p.placemetid = :id",nativeQuery=true)
+    void update(@Param("course") String course, @Param("batch") String batch, @Param("pst") int pst, @Param("tst") int tst, @Param("id") int id);}
 

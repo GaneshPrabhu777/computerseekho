@@ -37,7 +37,8 @@ function StaffSidePlacement(props) {
                                 <thead>
                                     <tr>
                                         <th>Placement ID</th>
-                                        <th>Batch ID</th>
+                                        {/* <th>Batch ID</th> */}
+                                        <th>Batch Name</th>
                                         <th>Course Name</th>
                                         <th>Total Students</th>
                                         <th>Placed Students</th>
@@ -49,7 +50,8 @@ function StaffSidePlacement(props) {
                                     {placements.map(placement => (
                                         <tr key={placement.placemetid}>
                                             <td>{placement.placemetid}</td>
-                                            <td>{placement.batchid}</td>
+                                            {/* <td>{placement.batchid}</td> */}
+                                            <td>{placement.batch_name}</td>
                                             <td>{placement.coursename}</td>
                                             <td>{placement.total_student}</td>
                                             <td>{placement.placedstudents}</td>

@@ -37,18 +37,18 @@ public class CourseController {
 		
 	 }
 	
-	@GetMapping(value = "api/CourseById/{cid}")
-	 public Optional<Course> getCourse(@PathVariable int cid)
+	@GetMapping(value = "api/CourseById/{id}")
+	 public Optional<Course> getCourse(@PathVariable int id)
 	 {
-		Optional<Course> c=manager.getCourse(cid);
+		Optional<Course> c=manager.getCourse(id);
 		return c;
 	 }
 	
 	
-	 @DeleteMapping(value = "api/courses/{cid}")
-	 public void removeCourse(@PathVariable int cid)
+	 @DeleteMapping(value = "api/courses/{id}")
+	 public void removeCourse(@PathVariable int id)
 	 {
-		manager.delete(cid);
+		manager.delete(id);
 	 }
 	 
 	 
@@ -58,10 +58,10 @@ public class CourseController {
 		manager.addCourse(course);
 	 }
 	 
-	 @PutMapping(value = "api/courses/{cid}")
-	 public void updatepro(@RequestBody Course course,@PathVariable int cid)
+	 @PutMapping(value = "api/courses/{id}")
+	 public void updatepro(@RequestBody Course course,@PathVariable int id)
 	 {
-		manager.update(course,cid);
+		manager.update(course,id);
 	 }
 	 
 	 
