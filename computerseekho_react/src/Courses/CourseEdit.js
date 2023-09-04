@@ -134,6 +134,16 @@ function CourseEdit() {
           />
         </div>
         <div className="form-group">
+          <label>Video Link:</label>
+          <input
+            type="text"
+            name="video_link"
+            value={course.video_link || ""}
+            onChange={handleChange}
+            className="form-control"
+          />
+        </div>
+        <div className="form-group">
           <label>Course Status:</label>
           <table>
             <tr>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import './Payment.css';
 import './Receipt.css';
 
@@ -10,6 +10,7 @@ function Receipt() {
   const [batchData, setBatchData] = useState({});
   const [paymentData, setPaymentData] = useState([]);
   const [totalFees, setTotalFees] = useState(0); // Define totalFees state variable
+  const navigate=useNavigate()
 
   useEffect(() => {
     // Fetch student data based on student_id
@@ -64,61 +65,72 @@ function Receipt() {
     window.print();
   };
 
+  const handleCancel=()=>{
+    navigate(-1)
+  }
   return (
-    <div className="receipt">
-      <h2>Fee Invoice</h2>
-      <div>
-        <h4>Student Information</h4>
-        <p>Student Name: {studentData.student_name}</p>
-        <p>Student ID: {studentData.student_id}</p>
-      </div>
+    <>
+      <div className="receipt" style={{ margin: "20px" }}>
+        <h2>Fee Invoice</h2>
+        <div>
+          <h3>Student Information</h3>
+          <p>Student Name: {studentData.student_name}</p>
+          <p>Student ID: {studentData.student_id}</p>
+        </div>
 
-      <div>
-        <h4>Course Information</h4>
-        <p>Course Name: {courseData.course_name}</p>
-      </div>
+        <div>
+          <h3>Course Information</h3>
+          <p>Course Name: {courseData.course_name}</p>
+        </div>
 
-      <div>
-        <h4>Batch Information</h4>
-        <p>Batch Name: {batchData.batch_name}</p>
-      </div>
+        <div>
+          <h3>Batch Information</h3>
+          <p>Batch Name: {batchData.batch_name}</p>
+        </div>
 
-      <h4>Payment Details</h4>
-      <div>
-        <label>Total Batch Fees:</label>
-        <input type="text" value={paymentData[0]?.batch_fees} readOnly />
-      </div>
-      <label>Fees Paid:</label>
-      <input
-        type="text"
-        value={totalFees}
-        readOnly
-        className={totalFees === paymentData[0]?.batch_fees ? 'green-text' : 'red-text'}
-      />
-      <table className="payment-table">
-        <thead>
-          <tr>
-            <th>Payment ID</th>
-            <th>Transaction ID</th>
-            <th>Payment Mode</th>
-            <th>Payment Date</th>
-            <th>Paid Fees</th>
-          </tr>
-        </thead>
-        <tbody>
-          {paymentData.map((paymentRecord) => (
-            <tr key={paymentRecord.payment_id}>
-              <td>{paymentRecord.payment_id}</td>
-              <td>{paymentRecord.payment_transaction_id}</td>
-              <td>{paymentRecord.payment_mode}</td>
-              <td>{new Date(paymentRecord.payment_date).toLocaleDateString()}</td>
-              <td>{paymentRecord.fees_paid}</td>
+        <h3>Payment Details</h3>
+        <div>
+          <label>Total Batch Fees:</label>
+          <input type="text" value={paymentData[0]?.batch_fees} readOnly />
+        </div>
+        <label>Fees Paid:</label>
+        <input
+          type="text"
+          value={totalFees}
+          readOnly
+          className={totalFees === paymentData[0]?.batch_fees ? 'green-text' : 'red-text'}
+        />
+        <table className="payment-table ">
+          <thead>
+            <tr>
+              <th>Payment ID</th>
+              <th>Transaction ID</th>
+              <th>Payment Mode</th>
+              <th>Payment Date</th>
+              <th>Paid Fees</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
-      <button onClick={handlePrint}>Print Receipt</button>
-    </div>
+          </thead>
+          <tbody>
+            {paymentData.map((paymentRecord) => (
+              <tr key={paymentRecord.payment_id}>
+                <td>{paymentRecord.payment_id}</td>
+                <td>{paymentRecord.payment_transaction_id}</td>
+                <td>{paymentRecord.payment_mode}</td>
+                <td>{new Date(paymentRecord.payment_date).toLocaleDateString()}</td>
+                <td>{paymentRecord.fees_paid}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+
+      </div>
+      <button onClick={handlePrint} style={{ marginTop: "10px", marginBottom: "10px" }}>Print Receipt</button>
+      <br />
+      <button onClick={handleCancel} style={{ marginTop: "10px", marginBottom: "10px" }}>Cancel</button>
+      <p style={{ marginTop: "50px", textAlign: "right" , marginRight:"10px" }}>Institute's Stamp</p>
+      
+
+    </>
   );
 }
 

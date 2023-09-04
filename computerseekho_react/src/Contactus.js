@@ -151,13 +151,15 @@ function ContactUs() {
 
             <div style={{ marginBottom: '10px' }}>
               <label>Query:</label>
-              <input
-                type="text"
+              <textarea
+                rows="3"            // Set the number of rows
+                cols="20"           // Set the number of columns
                 value={enquiryData.enquirer_query}
                 onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
                 style={{ width: '100%', padding: '5px' }}
               />
             </div>
+
 
             <Button variant="primary" type="submit" className="mt-3" style={{ width: '100%', padding: '10px' }}>
               Submit

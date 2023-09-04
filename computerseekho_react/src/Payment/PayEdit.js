@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, Navigate, useNavigate } from 'react-router-dom';
 import './Payment.css';
 
 function PaymentEdit() {
   const { student_id } = useParams();
   const [paymentData, setPaymentData] = useState([]);
   const [totalFees, setTotalFees] = useState(0);
+  const navigate =useNavigate()
 
   useEffect(() => {
     // Fetch payment records for the specified student_id
@@ -27,8 +28,12 @@ function PaymentEdit() {
       });
   }, [student_id]);
 
+  const handleCancel=()=>{
+    navigate(-1)
+  }
+
   return (
-    <div>
+    <div className='col-md-8'>
       <h2>Payment Details</h2>
       <br /><br />
       <div>
@@ -79,11 +84,12 @@ function PaymentEdit() {
           <button>Add Payment</button>
         </Link>
       )}
-      <br />  
+      <br /> <br/> 
       <Link to={`/rec/${student_id}`}>
-          <button>Print Receipt</button>
+          <button>Receipt</button>
         </Link>
       <br />
+      <button onClick={handleCancel} style={{marginTop:"20px"}}>Cancel</button>
       <br />
       <br />
     </div>

@@ -86,7 +86,6 @@ export function AllEnq(props) {
           <Button variant="secondary">Call</Button>
         </a>
       ),
-      sort: true,
       headerStyle: { width: '80px' }, // Set the width for the header
       style: { width: '100px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' },
     },
@@ -98,7 +97,6 @@ export function AllEnq(props) {
           <Button variant="secondary">Register</Button>
         </a>
       ),
-      sort: true,
       headerStyle: { width: '100px' }, // Set the width for the header
       style: { width: '100px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' },
     },

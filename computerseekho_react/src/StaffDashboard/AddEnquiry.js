@@ -60,8 +60,8 @@ function AddEnquiry() {
     // console.log('Enquiry Data:', enrichedEnquiryData);
 
     // Set today's date to enquiry_date
-  const currentDate = new Date().toISOString().split('T')[0]; // Get today's date in 'YYYY-MM-DD' format
-  enrichedEnquiryData.enquiry_date = currentDate;
+    const currentDate = new Date().toISOString().split('T')[0]; // Get today's date in 'YYYY-MM-DD' format
+    enrichedEnquiryData.enquiry_date = currentDate;
 
 
     try {
@@ -78,6 +78,7 @@ function AddEnquiry() {
       if (response.ok) {
         // Enquiry successfully stored
         // console.log('Enquiry stored successfully');
+        alert("Enquiry submitted sucessfully")
         // Clear the form fields
         setEnquiryData({
           enquirer_name: '',
@@ -102,69 +103,73 @@ function AddEnquiry() {
 
   return (
     <>
-    <Dashoption/> 
-    
-    <Container>
+      <Dashoption />
 
-   
-     
-      <Row className="mt-3">
-        <Col lg="5">
-          <h2 align="center">Enquiry Form</h2>
-          <Form onSubmit={handleEnquirySubmit} >
-            <label>Name:</label>
-            <input
-            required
-              type="text"
-              value={enquiryData.enquirer_name}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_name: e.target.value })}
-            />
-           
-            <label>Mobile:</label>
-            <input
-            required
-              type="text"
-              value={enquiryData.enquirer_mobile}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_mobile: e.target.value })}
-            />
-            <label>Email:</label>
-            <input
-              type="text"
-              value={enquiryData.enquirer_email_id}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_email_id: e.target.value })}
-            />
-        <input
-          type="date"
-          hidden
-          value={enquiryData.enquiry_date}
-          onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })}
-        />
-        <input
-          type="date"
-          hidden
-          value={enquiryData.follow_up_date}
-          onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })}
-        />
-       
-            <label>Query:</label>
-            <input
-            required
-              type="text"
-              value={enquiryData.enquirer_query}
-              onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
-            />
+      <Container>
 
-            
-            <Button variant="primary" type="submit" className="mt-3">
-              Submit
-            </Button>
-            <br />
-            <br />
-           
-          </Form>
-      </Col>
-      </Row>
-    </Container>
+
+
+        <Row className="mt-3">
+          <Col lg="5">
+            <h2 align="center">Enquiry Form</h2>
+            <Form onSubmit={handleEnquirySubmit} >
+              <label>Name:</label>
+              <input
+                required
+                type="text"
+                value={enquiryData.enquirer_name}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_name: e.target.value })}
+              />
+
+              <label>Mobile:</label>
+              <input
+                required
+                type="text"
+                value={enquiryData.enquirer_mobile}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_mobile: e.target.value })}
+              />
+              <label>Email:</label>
+              <input
+                type="text"
+                value={enquiryData.enquirer_email_id}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_email_id: e.target.value })}
+              />
+              <input
+                type="date"
+                hidden
+                value={enquiryData.enquiry_date}
+                onChange={(e) => setEnquiryData({ ...enquiryData, enquiry_date: e.target.value })}
+              />
+              <input
+                type="date"
+                hidden
+                value={enquiryData.follow_up_date}
+                onChange={(e) => setEnquiryData({ ...enquiryData, follow_up_date: e.target.value })}
+              />
+
+              <div style={{ marginBottom: '10px' }}>
+                <label>Query:</label>
+                <textarea
+                  rows="3"            // Set the number of rows
+                  cols="20"           // Set the number of columns
+                  value={enquiryData.enquirer_query}
+                  onChange={(e) => setEnquiryData({ ...enquiryData, enquirer_query: e.target.value })}
+                  style={{ width: '100%', padding: '5px' }}
+                />
+              </div>
+
+
+
+              <Button variant="primary" type="submit" className="mt-3">
+                Submit
+              </Button>
+              <br />
+              <br />
+
+            </Form>
+          </Col>
+        </Row>
+      </Container>
     </>
   );
 }

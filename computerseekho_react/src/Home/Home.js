@@ -17,7 +17,6 @@ function Home() {
                 </div>
             </div>
 
-
             <div className="container">
                 <div className="blinking-line text-center">
                     <div>Special Offer for Early Admissions</div>

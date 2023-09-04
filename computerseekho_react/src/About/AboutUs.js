@@ -8,7 +8,7 @@ function AboutUs() {
       <table>
         <tr>
           <td>
-            <div class="title-section col-md-8">
+            <div class="title-section col-md-10">
               <br />
               <h1 class="title"><span>Our Origin</span></h1>
               <div class="sub-title">
@@ -27,7 +27,7 @@ function AboutUs() {
             <img src='/images/img2.jpg' style={{ height: "300px" }} />
           </td>
           <td>
-            <div className="about-content col-md-8">
+            <div className="about-content col-md-10">
               <h3><b>We believe</b></h3>
               <p align="justify">To learn and work successfully in an increasingly information-rich society, one must be able to use technology effectively and creatively. This applies to all strata of society...students, teachers, professionals, homemakers, and senior citizens.</p>
             </div>

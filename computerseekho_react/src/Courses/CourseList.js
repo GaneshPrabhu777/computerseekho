@@ -42,7 +42,7 @@ function CourseList(props) {
                     <th>Duration</th>
                     <th>Syllabus</th>
                     <th>Age group</th>
-                    <th>Cover Photo</th>
+                    {/* <th>Cover Photo</th> */}
                     <th>Status</th>
                     <th>Actions</th>
                   </tr>
@@ -56,7 +56,7 @@ function CourseList(props) {
                       <td>{courses.course_duration}</td>
                       <td>{courses.course_syllabus}</td>
                       <td>{courses.age_grp_type}</td>
-                      <td>{courses.cover_photo}</td>
+                      {/* <td>{courses.cover_photo}</td> */}
                       <td style={{ backgroundColor: courses.course_is_active ? "lightgreen" : "red" }}>
                         {getStatusText(courses.course_is_active)}
                       </td>

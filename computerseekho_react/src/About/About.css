@@ -1,5 +1,5 @@
 .about-container {
-    margin: 20px;
+    margin: 24px;
     font-family: Arial, sans-serif;
   }
   
@@ -48,4 +48,5 @@
   .card-body{
     text-align: justify;
     text-justify: inter-word;
+    
   }

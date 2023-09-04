@@ -13,7 +13,7 @@
   
     /* Add additional styles for printed content */
     .receipt {
-      margin: 20px; /* Add margins as needed */
+      margin: 10px; /* Add margins as needed */
       border: 2px solid #333; /* Add a border around the receipt */
       padding: 20px; /* Add padding inside the receipt */
       background-color: #fff; /* Set background color for the receipt */
@@ -21,19 +21,19 @@
     }
   
     .receipt h2 {
-      font-size: 24pt; /* Adjust header font size */
+      font-size: 20pt; /* Adjust header font size */
       color: #333; /* Set header text color */
       text-align: center; /* Center-align the header */
       margin-bottom: 20px; /* Add space below the header */
     }
   
     .receipt h3 {
-      font-size: 20pt; /* Adjust sub-header font size */
+      font-size: 18pt; /* Adjust sub-header font size */
       color: #666; /* Set sub-header text color */
     }
   
     .receipt p {
-      font-size: 18pt; /* Adjust paragraph font size */
+      font-size: 15pt; /* Adjust paragraph font size */
       margin: 10px 0; /* Add vertical margin to paragraphs */
     }
   

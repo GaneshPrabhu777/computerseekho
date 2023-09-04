@@ -53,6 +53,10 @@ function NewPayment() {
     }
   };
 
+  const handleCancel= ()=>{
+    navigate(-1)
+  }
+
   return (
     <div>
       <h2>New Payment</h2>
@@ -114,7 +118,9 @@ function NewPayment() {
           </div>
         )}
         <div>
-          <button type="submit">Submit</button>
+          <button type="submit" style={{marginTop:"20px"}}>Submit</button>
+          <br/>
+          <button onClick={handleCancel} style={{marginTop:"20px"}}>Cancel</button>
         </div>
       </form>
     </div>
