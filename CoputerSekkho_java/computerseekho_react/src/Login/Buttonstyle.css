@@ -1,0 +1,14 @@
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+    width: 100%;
+    background-color: #f8f9fa; /* Set your desired background color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    z-index: 1000; /* Ensure the buttons are above other content */
+  }
+  
+  .button-container button {
+    margin-right: 10px; /* Add some spacing between buttons */
+  }
+  

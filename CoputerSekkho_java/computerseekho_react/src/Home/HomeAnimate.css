@@ -1,0 +1,31 @@
+
+.animated-line {
+    position: relative;
+    height: 2px; /* Adjust the thickness of the line as needed */
+    background-color: #007bff; /* Line color */
+    animation: moveLine 5s linear infinite;
+  }
+  
+  .message {
+    position: absolute;
+    top: -20px; /* Adjust the distance from the line to the message */
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #fff; /* Background color of the message */
+    padding: 5px 10px;
+    border: 1px solid #007bff; /* Border color */
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a shadow for better visibility */
+  }
+  
+  /* Keyframes for the animation */
+  @keyframes moveLine {
+    0% {
+      left: -100%; /* Start position */
+    }
+    100% {
+      left: 100%; /* End position */
+    }
+  }
+  

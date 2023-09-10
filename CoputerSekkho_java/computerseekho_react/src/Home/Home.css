@@ -1,0 +1,53 @@
+.modern-header {
+  background-color: #ffffff; /* Set your desired background color */
+  padding: 20px 0;
+}
+
+.logo {
+  width: auto;
+  max-height: 50px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 30px;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+
+.navbar-toggler {
+  border-color: #fff;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.blinking-line {
+  position: relative;
+  height: 40px; /* Adjust the thickness of the line as needed */
+  background-color: #d9ff00; /* Line color */
+  animation: blink 4s linear infinite; /* Blinking animation duration */
+  font-size: x-large;
+}
+
+/* Keyframes for the blinking animation */
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

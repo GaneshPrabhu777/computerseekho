@@ -1,0 +1,30 @@
+
+.payment-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .payment-table th, .payment-table td {
+    border: 1px solid #ddd; /* Add borders to table cells */
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .payment-table th {
+    background-color: #f2f2f2; /* Add a background color to table headers */
+  }
+  
+.red-text {
+    color: red;
+    font-weight: 100;
+    font-weight: bold;
+  }
+  
+  .green-text {
+    color: green;
+    font-weight: 100;
+    font-weight: bold;
+  }
+
+  
+  

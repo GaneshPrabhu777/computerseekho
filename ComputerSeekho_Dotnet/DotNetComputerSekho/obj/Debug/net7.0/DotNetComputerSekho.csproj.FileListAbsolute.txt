@@ -1,0 +1,1524 @@
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\Project_Tables\DotnetProject\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+E:\New folder\Group11\ComputerSeekhoDoTNet\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+C:\Users\risha\OneDrive\Desktop\Final Project\DotNet\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+C:\Users\risha\OneDrive\Desktop\updated project\computerseekho\DotNet\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+C:\Users\risha\OneDrive\Desktop\Dotnet\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.Development.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\appsettings.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.exe
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.deps.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.runtimeconfig.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\DotNetComputerSekho.pdb
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Core.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Humanizer.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Common.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.CodeDom.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.AssemblyReference.cache
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfoInputs.cache
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.AssemblyInfo.cs
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CoreCompileInputs.cache
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cs
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.MvcApplicationPartsAssemblyInfo.cache
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.DotNetComputerSekho.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNetComputerSekho.props
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNetComputerSekho.props
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNetComputerSekho.props
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\scopedcss\bundle\DotNetComputerSekho.styles.css
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.csproj.CopyComplete
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\refint\DotNetComputerSekho.dll
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.pdb
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\DotNetComputerSekho.genruntimeconfig.cache
+E:\Rishabh_repository\Dotnet\DotNetComputerSekho\obj\Debug\net7.0\ref\DotNetComputerSekho.dll
